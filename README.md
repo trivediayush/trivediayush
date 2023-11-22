@@ -1,4 +1,4 @@
-![MasterHead]()
+![MasterHead](https://raw.githubusercontent.com/AyushTrivedi99/AyushTrivedi99/master/myreadme.png)
 <h1 align="center">Hi 👋, I'm Ayush Trivedi</h1>
 <h3 align="center">A passionate frontend, Python developer and Linux User</h3>
 
