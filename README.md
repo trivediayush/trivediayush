@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **trivediayush.netlify.app**
 
-- 📄 Know about my experiences [[trivediayush.netlify.app](https://trivediayush.netlify.app/)]
+- 📄 Know about my experiences [trivediayush.netlify.app(https://trivediayush.netlify.app/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
