@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushtrivedi99" alt="ayushtrivedi99" /></a> </p>
 
-- 🔭 I’m currently working on **MySelf**
+- 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **MERN Stack**
 
