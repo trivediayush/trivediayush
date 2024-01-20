@@ -43,3 +43,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ayushtrivedi&show_icons=true&locale=en" alt="dev-ayushtrivedi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ayushtrivedi&" alt="dev-ayushtrivedi" /></p>
+
+<!-- <p align="center"> 
+<!--   Visitor count<br> -->
+<!--   <img src="https://profile-counter.glitch.me/dev-ayushtrivedi/count.svg" /> -->
+<!-- </p> -->
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
