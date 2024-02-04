@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, React, Python, Linux, Graphics**
 
-- 📫 How to reach me **ayushtrivedi415@gmail.com**
+- 📫 How to reach me **ayushtrived890@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Dev-AyushTrivedi](https://github.com/Dev-AyushTrivedi)
 
