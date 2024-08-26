@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/AyushTrivedi99/AyushTrivedi99/master/myreadme.png)
+<!-- ![MasterHead](https://raw.githubusercontent.com/AyushTrivedi99/AyushTrivedi99/master/myreadme.png) -->
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
