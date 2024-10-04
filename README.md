@@ -1,12 +1,12 @@
 <!-- ![MasterHead](https://raw.githubusercontent.com/AyushTrivedi99/AyushTrivedi99/master/myreadme.png) -->
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h1 align="center">Hi 👋, I'm Ayush Trivedi</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtrivedi1&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtrivedi1" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dev-AyushTrivedi" alt="ayushtrivedi1" /></a> </p>
 
-- 🔭 I’m currently working on **DSA**
+<!-- 🔭 I’m currently working on **DSA**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm's**
 
@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **ayushtrivedi890@gmail.com**
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ ### Blogs posts 
+ BLOG-POST-LIST:START
+ BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
