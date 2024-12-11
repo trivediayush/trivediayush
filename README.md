@@ -42,8 +42,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trivediayush&show_icons=true&locale=en" alt="trivediayush" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trivediayush&" alt="trivediayush" /></p>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
