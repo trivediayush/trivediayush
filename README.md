@@ -60,7 +60,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trivediayush&show_icons=true&locale=en&theme=radical" alt="trivediayush" /></p> 
 
-![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvmistry2000&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvmistry2000&custom_title=%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 </div>
 
 
