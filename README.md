@@ -1,10 +1,25 @@
 <!-- ![MasterHead](https://raw.githubusercontent.com/trivediayush/trivediayush/master/myreadme.png) -->
 <h1 align="center">Hi 👋, I'm Ayush Trivedi</h1>
-<h3 align="center">A passionate Python developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=trivediayush&label=Profile%20views&color=0e75b6&style=flat" alt="trivediayush" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trivediayush&theme=radical" alt="trivediayush" /></a> </p>
+
+## 🔧 Tech Stack & Tools
+<div align="center">
+
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<!-- ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -->
 
 
 <!-- 🔭 I’m currently working on **DSA**
@@ -41,7 +56,12 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trivediayush&show_icons=true&locale=en&layout=compact&theme=radical" alt="trivediayush" /></p> -->
 
+## 📊 GitHub Analytics
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trivediayush&show_icons=true&locale=en&theme=radical" alt="trivediayush" /></p> 
+
+![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvmistry2000&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+</div>
 
 
 <div align="center">
@@ -49,3 +69,4 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
