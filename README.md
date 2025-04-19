@@ -1,10 +1,6 @@
 <!-- ![MasterHead](https://raw.githubusercontent.com/trivediayush/trivediayush/master/myreadme.png) -->
 <h1 align="center">Hi 👋, I'm Ayush Trivedi</h1>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=trivediayush&label=Profile%20views&color=0e75b6&style=flat" alt="trivediayush" /> </p> -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trivediayush&theme=radical" alt="trivediayush" /></a> </p>
-
 ## 🔧 Tech Stack & Tools
 <div align="center">
 
@@ -21,6 +17,11 @@
 <!-- ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -->
+
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=trivediayush&label=Profile%20views&color=0e75b6&style=flat" alt="trivediayush" /> </p> -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trivediayush&theme=radical" alt="trivediayush" /></a> </p>
 
 
 <!-- 🔭 I’m currently working on **DSA**
