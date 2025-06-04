@@ -1,6 +1,6 @@
 <!-- Animated Typing Header (Cloud & DevOps Themed, One By One) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=700&color=43E97B&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+I'm+Ayush+Trivedi+%F0%9F%91%8B;DevOps+Engineer+|+Cloud+Engineer;Automation+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=700&color=FFFF00&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+I'm+Ayush+Trivedi+%F0%9F%91%8B;DevOps+Engineer+|+Cloud+Engineer;Automation+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <!--  Banner Divider -->
