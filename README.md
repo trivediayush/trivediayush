@@ -88,9 +88,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trivediayush&theme=react-dark&bg_color=141e30,23272e,141e30&color=43e97b&line=ff3cac&point=38f9d7&area=true&hide_border=true&custom_title=Activity%20Graph" alt="Ayush's Activity Graph" />
 </p>
 
-<p align="center">
-  <!-- Stats Card: Neon/Gradient Dark -->
-  <img src="https://github-readme-stats.vercel.app/api?username=trivediayush&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" />
 
 <p align="center">
   <!-- Profile Details Card: Synthwave/Neon -->
