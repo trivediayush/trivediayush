@@ -91,9 +91,6 @@
 <p align="center">
   <!-- Stats Card: Neon/Gradient Dark -->
   <img src="https://github-readme-stats.vercel.app/api?username=trivediayush&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <!-- Streak Card: Neon/Gradient Dark -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=trivediayush&theme=neon-dark&hide_border=true" height="165"/>
-</p>
 
 <p align="center">
   <!-- Profile Details Card: Synthwave/Neon -->
