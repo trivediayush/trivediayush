@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=700&color=6e6e6e0&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+I'm+Ayush+Trivedi+%F0%9F%91%8B;DevOps+Engineer+|+Cloud+Engineer;Automation+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<!--  Banner Divider -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-43e97b?style=for-the-badge&labelColor=141e30&color=43e97b&logo=cloudflare&logoColor=ff3cac" height="40"/>
-</p>
-
 <!-- Social Networking-->
 <div align="center">
   <a href="mailto:ayushtrivedi415@gmail.com" target="_blank">
@@ -20,7 +15,7 @@
 
 ---
 
-<h2 align="center">🚀 My <span align="center" style="background:linear-gradient(90deg,#43e97b,#38f9d7,#ff3cac,#784ba0);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Cloud & DevOps Toolbox</span></h2>
+<h2 align="center"><span align="center" style="background:linear-gradient(90deg,#43e97b,#38f9d7,#ff3cac,#784ba0);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Skills and Technologies</span></h2>
 
 <p align="center">
   <!-- Cloud -->
@@ -60,7 +55,7 @@
 ---
 
 <h2 align="center">
-  <span style="background:linear-gradient(90deg,#43e97b,#38f9d7,#ff3cac,#784ba0);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">♾️ DevOps Infinity Flow</span>
+  <span style="background:linear-gradient(90deg,#43e97b,#38f9d7,#ff3cac,#784ba0);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">♾️ Infinity Flow</span>
 </h2>
 
 <p align="center" style="font-size:1.22em;">
@@ -80,7 +75,7 @@
 ---
 
 <h2 align="center">
-  <span style="background:linear-gradient(90deg,#43e97b,#38f9d7,#ff3cac,#784ba0);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">📊 Cloud & DevOps Activity & Insights</span>
+  <span style="background:linear-gradient(90deg,#43e97b,#38f9d7,#ff3cac,#784ba0);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">📊 Activity & Insights</span>
 </h2>
 
 <p align="center">
