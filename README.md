@@ -45,6 +45,7 @@
   <!-- Project Management & OS -->
   <img src="https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-%23FC6D26?style=for-the-badge&logo=postman&logoColor=black" />
   <!-- Editors -->
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
