@@ -13,7 +13,6 @@
 
 [![Email](https://img.shields.io/badge/Gmail-ayushtrivedi11jan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushtrivedi11jan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushtrivedi--in-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushtrivedi-in/)
-![Location](https://img.shields.io/badge/Indore%2C%20India-00D9A3?style=flat-square&logo=googlemaps&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-238636?style=flat-square)
 ![Views](https://komarev.com/ghpvc/?username=trivediayush&style=flat-square&color=00d9a3&label=Profile+Views)
 
@@ -101,25 +100,68 @@
 
 ## 🚀 Key Projects
 
-### 🔵 Cloud-Native CI/CD Pipeline — Azure DevOps + ArgoCD + AKS
+<table>
 
-Designed and deployed a full GitOps-based CI/CD pipeline for **5+ microservices on AKS** using ArgoCD.
-Enforced environment consistency across dev → staging → production with Helm chart versioning.
+<tr>
+<td valign="top" width="50%">
 
-**Result:** `80% reduction in manual deployment steps` · `Consistent releases across all environments`
+```
+╔══════════════════════════════════════╗
+║  🔵  PROJECT 01                      ║
+║  Cloud-Native CI/CD + GitOps         ║
+╚══════════════════════════════════════╝
+```
 
-`Azure DevOps` `AKS` `ArgoCD` `Helm` `Kubernetes` `Docker`
+**Azure DevOps · ArgoCD · AKS**
 
----
+Designed and deployed a full GitOps-based CI/CD pipeline for **5+ microservices on AKS** using ArgoCD. Enforced environment consistency across dev → staging → production with Helm chart versioning.
 
-### 🟠 DevSecOps Security Pipeline — Shift-Left Security
+```
+Manual Steps    ████░░░░░░░░  80% eliminated
+Release Parity  ████████████  100% consistent
+```
 
-Built end-to-end security scanning into the CI pipeline — SAST via SonarCloud, secret scanning via Gitleaks,
-dependency scanning via Snyk, container scanning via Trivy. Security gates block any unsafe merge.
+**Key Win:**
+> 🎯 80% reduction in manual deployment steps
 
-**Result:** `100% of CI builds scanned` · `Zero security blind spots` · `Improved code quality`
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-`SonarCloud` `Gitleaks` `Snyk` `Trivy` `GitHub Actions`
+</td>
+<td valign="top" width="50%">
+
+```
+╔══════════════════════════════════════╗
+║  🟠  PROJECT 02                      ║
+║  DevSecOps Security Pipeline         ║
+╚══════════════════════════════════════╝
+```
+
+**Shift-Left Security at Every Stage**
+
+Built end-to-end security scanning into the CI pipeline — SAST via SonarCloud, secret scanning via Gitleaks, dependency scanning via Snyk, container scanning via Trivy. Security gates block any unsafe merge.
+
+```
+CI Builds Scanned  ████████████  100% coverage
+Security Gates     ████████████  Always active
+```
+
+**Key Win:**
+> 🎯 Zero security blind spots across all builds
+
+![SonarCloud](https://img.shields.io/badge/SonarCloud-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-FF6B6B?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+</tr>
+
+</table>
 
 ---
 
