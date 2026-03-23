@@ -1,291 +1,456 @@
 <div align="center">
 
-# 👋 Ayush Trivedi
-## DevOps Engineer | Cloud Infrastructure | CI/CD Automation | 1+ Years Experience
 
-<p>
-  <a href="mailto:ayushtrivedi11jan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/ayushtrivedi-in">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/ayushtrivedi11" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=trivediayush&style=flat-square&color=00d9a3" alt="Profile Views"/>
-</p>
+### 🚀 CI/CD | Kubernetes | Cloud Automation | DevSecOps | Infrastructure as Code
 
-**🔥 Available for Full-Time DevOps Engineer | SRE | Cloud Engineer Roles**
+**DevOps Engineer** | 1+ Years Hands-On Experience | OCI Certified | Open to Opportunities
+
+---
+
+<table>
+<tr>
+<td>
+
+📧 **Contact**
+[ayushtrivedi11jan@gmail.com](mailto:ayushtrivedi11jan@gmail.com)
+
+</td>
+<td>
+
+🔗 **LinkedIn**
+[in/ayushtrivedi-in](https://linkedin.com/in/ayushtrivedi-in)
+
+</td>
+<td>
+
+🌐 **Portfolio**
+[trivediayush.github.io](https://trivediayush.github.io/Ayush-Trivedi/)
+
+</td>
+<td>
+
+📍 **Location**
+(Open to Onsite & Remote)
+
+</td>
+</tr>
+</table>
+
+<img src="https://komarev.com/ghpvc/?username=trivediayush&style=flat-square&color=00d9a3" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 WHO I AM
 
-I'm a **results-driven DevOps engineer** with **1+ year of hands-on experience** building and maintaining production-grade cloud infrastructure, CI/CD pipelines, and containerized deployments.
+> **DevOps Engineer** obsessed with automation, reliability, and security. I design and maintain cloud-native CI/CD pipelines that help teams ship code faster while maintaining security and stability.
+>
+> **My philosophy:** *"Automate the repetitive. Secure the critical. Monitor everything. Deploy fearlessly."*
 
-My sweet spot is **automating everything** — from infrastructure provisioning to security scanning — so teams can ship code safely and fast.
-
-**What I bring to the table:**
-- 🚀 **70% faster deployments** through CI/CD optimization
-- 🔐 **Security-first mindset** (100% CI build scanning)
-- ☁️ **Multi-cloud expertise** (Azure, AWS, OCI)
-- 📚 **Continuous learner** (recently certified in OCI DevOps & Architecture)
-- 🤝 **Team player** (collaborated with dev teams at Aviasole & VKAPS)
-
-**Currently:** Open to full-time opportunities | Available immediately  
-**Location:** Indore, India | Open to remote roles  
-**Experience Level:** Junior DevOps Engineer (1+ years professional)
+### 🔥 What I Do
+- 🔄 **Design CI/CD pipelines** that reduce deployment time by 70%+
+- ☁️ **Orchestrate containerized microservices** on Kubernetes (AKS, EKS)
+- 🏗️ **Build infrastructure** with code (Terraform, Ansible, CloudFormation)
+- 🔐 **Implement DevSecOps** (shift-left security, 100% build scanning)
+- 📊 **Build observability** (Prometheus, Grafana, Azure Monitor, ELK)
+- 🛡️ **Secure everything** (secrets management, RBAC, network policies)
 
 ---
 
-## 📚 Experience & Certifications
+## 🔑 CORE DEVOPS SKILLS
 
-### 💼 Professional Experience
-- **DevOps Engineer** @ Aviasole Technologies (Nov 2025 - Present, 5 months)
-- **DevOps Engineer** @ VKAPS IT Solutions (Jun 2025 - Nov 2025, 5 months)
-- **DevOps Intern** @ PearlThoughts (Apr 2025 - May 2025, 2 months)
-
-### 🏆 Certifications
-| Credential | Issuer | Year | Status |
-|:---|:---|:---|:---|
-| **OCI 2025 DevOps Professional** | Oracle | 2025 | ✅ Active (Oct 2025 - Oct 2027) |
-| **OCI 2025 Architect Associate** | Oracle | 2025 | ✅ Active (Oct 2025 - Oct 2027) |
-
-> 📖 **Education:** B.Tech Computer Science & Engineering (Cloud & Mobile Computing) | Shri Vaishnav Vidyapeeth Vishwavidyalaya | 2025
-
----
-
-## ⚡ Impact by the Numbers
+### 🎖️ Certifications
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    MY BIGGEST WINS                          │
-├─────────────────────────────────────────────────────────────┤
-│  🚀 70% faster deployments   →  Jenkins pipeline optimization │
-│  🛡️ 100% CI security coverage →  DevSecOps scanning pipeline  │
-│  🔐 20+ services secured     →  Azure Key Vault integration   │
-│  ✂️  80% manual steps cut    →  GitOps with ArgoCD           │
-│  📊 20+ services monitored   →  Centralized observability    │
-│  ⏱️  45% faster resolution   →  Proactive monitoring & alerts │
-└─────────────────────────────────────────────────────────────┘
+Oracle OCI 2025 Certified DevOps Professional     [1Z0-1109-25]  ✅ Oct 2025-2027
+Oracle OCI 2025 Architect Associate               [1Z0-1072-25]  ✅ Oct 2025-2027
 ```
-
----
-
-## 🛠️ Tech Stack (What I Use Daily)
-
-### ☁️ Cloud Platforms
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Oracle OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
-
-### 📦 Container & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
-![AKS](https://img.shields.io/badge/AKS-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-### 🔄 CI/CD Tools
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 ### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazonaws&logoColor=white)
+```
+┌─────────────────────────────────────┐
+│ Terraform  | Ansible | CloudFormation
+│ HCL/JSON   | YAML    | YAML/JSON
+│ ☁️ AWS, Azure, OCI   │ Reusable modules
+└─────────────────────────────────────┘
+```
 
-### 🔐 DevSecOps & Security
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat&logo=snyk&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aquasecurity&logoColor=white)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-FF6B6B?style=flat&logo=git&logoColor=white)
+### 📦 Container & Orchestration Mastery
+```
+┌──────────────────────────────────────────┐
+│ Docker          → Image building & optimization
+│ Kubernetes      → Multi-cluster, RBAC, networking
+│   ├─ AKS (Azure Kubernetes Service)
+│   ├─ EKS (AWS Elastic Kubernetes Service)
+│   └─ Minikube (local development)
+│ Helm            → Chart management & templating
+│ ArgoCD          → GitOps declarative deployments
+└──────────────────────────────────────────┘
+```
 
-### 📊 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+### 🔄 CI/CD Pipeline Engineering
+```
+┌────────────────────────────────────────────────┐
+│ Azure DevOps   → Multi-stage YAML pipelines
+│ Jenkins        → Declarative/Scripted pipelines
+│ GitHub Actions → Event-driven workflows
+│ GitLab CI      → GitOps-native CI/CD
+│
+│ Expertise: Build → Test → Security → Deploy → Monitor
+└────────────────────────────────────────────────┘
+```
 
-### 🔧 Scripting & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### 🔐 DevSecOps & Security Pipeline
+```
+┌─────────────────────────────────────────────────┐
+│ SAST Analysis    → SonarQube (code quality)
+│ Secret Scanning  → Gitleaks (credential leaks)
+│ Dependency Scan  → Snyk (vulnerable packages)
+│ Container Scan   → Trivy (image vulnerabilities)
+│ Secret Vault     → Azure Key Vault (secure storage)
+│
+│ → 100% of CI builds scanned & gated
+└─────────────────────────────────────────────────┘
+```
+
+### 📊 Observability & Monitoring
+```
+Prometheus → Grafana → Real-time dashboards & alerts
+Azure Monitor → Log Analytics → Enterprise-scale logging
+ELK Stack → Elasticsearch → Distributed tracing
+```
+
+### ☁️ Multi-Cloud Platform Expertise
+```
+Microsoft Azure                Amazon AWS              Oracle Cloud
+├─ AKS                        ├─ EKS                   ├─ OKE
+├─ Container Apps             ├─ EC2                   ├─ Networking
+├─ Key Vault                  ├─ S3, RDS, ALB          ├─ Load Balancing
+├─ DevOps (CI/CD)             ├─ CloudFormation        ├─ Certified DevOps
+├─ Monitor & Analytics        └─ VPC Networking        └─ IaC with Terraform
+└─ Networking & Security
+```
 
 ---
 
-## 🌟 Featured Projects (My Best Work)
+## 🚀 PRODUCTION PROJECTS
 
-### 🥇 Production-Grade Microservices Platform (AWS EKS + GitOps)
-
+### 🥇 PROJECT: AWS EKS + GitOps Microservices Platform
 **[→ AWS-EKS-GitOps-Microservices-Platform](https://github.com/trivediayush/AWS-EKS-GitOps-Microservices-Platform)**
+```
+ARCHITECTURE OVERVIEW:
+┌──────────────────────────────────────────────────────┐
+│  GitHub → GitHub Actions → Docker → ECR → ArgoCD    │
+│                                      ↓              │
+│              AWS EKS Kubernetes Cluster              │
+│     ┌─────────────┬──────────────┬──────────────┐   │
+│     │ Service-A   │ Service-B    │ Service-C    │   │
+│     │ (Replicas)  │ (Replicas)   │ (Replicas)   │   │
+│     └─────────────┴──────────────┴──────────────┘   │
+│                    ↓                                 │
+│     Prometheus  → Grafana (Monitoring)              │
+│     ELK Stack   → Centralized Logging               │
+│     AWS RDS     → Database Layer                    │
+└──────────────────────────────────────────────────────┘
+```
 
-Production-ready microservices deployed on **AWS EKS** using **GitOps (ArgoCD)** with full CI/CD and DevSecOps.
+**What I Built:**
+- ✅ **3+ microservices** orchestrated on AWS EKS with auto-scaling
+- ✅ **GitOps workflow** with ArgoCD for declarative, version-controlled deployments
+- ✅ **End-to-end CI/CD:** Commit → Build → Scan → Test → Deploy → Monitor
+- ✅ **DevSecOps pipeline:** SonarQube + Snyk + Trivy + Gitleaks (100% coverage)
+- ✅ **Infrastructure as Code:** Terraform modules for provisioning
+- ✅ **Observability stack:** Prometheus, Grafana, ELK Stack
+- ✅ **80% reduction** in manual deployment steps
 
-**What I built:**
-- ✅ Orchestrated 5+ microservices on AWS EKS with automated scaling
-- ✅ GitOps workflow using ArgoCD for declarative infrastructure
-- ✅ End-to-end DevSecOps: SonarQube → Snyk → Trivy → Container scanning
-- ✅ 80% reduction in manual deployment steps
-- ✅ Centralized logging with ELK stack
-- ✅ Prometheus + Grafana for observability
+**Technologies Used:**
+```
+Infrastructure: Terraform, AWS (EKS, EC2, S3, RDS, ALB, VPC)
+Containerization: Docker, ECR, Kubernetes manifests
+GitOps: ArgoCD, Helm charts, version control
+CI/CD: GitHub Actions, Docker image building
+Security: Snyk, Trivy, SonarQube, RBAC, network policies
+Observability: Prometheus, Grafana, ELK Stack, CloudWatch
+```
 
-**Tech Stack:** `Kubernetes` `ArgoCD` `Docker` `Terraform` `GitHub Actions` `AWS` `DevSecOps`
-
-**Why recruiters care:** Shows I can architect, deploy, and secure production systems independently.
+**Key Learnings:**
+- GitOps best practices (ArgoCD, Helm chart versioning)
+- Kubernetes networking, storage, and RBAC
+- Multi-layer security (SAST, container scanning, secrets)
+- Distributed observability (metrics + logs + traces)
+- Production deployment patterns
 
 ---
 
-### 🥈 Azure DevOps Multi-Environment CI/CD Pipeline
-
+### 🥈 PROJECT: Azure DevOps Multi-Environment CI/CD Pipeline
 **[→ Azure-DevOps](https://github.com/trivediayush/Azure-DevOps)**
+```
+PIPELINE FLOW:
+Developer Push → Azure DevOps Pipeline Trigger
+                       ↓
+            ┌───────────┴───────────┐
+            ↓                       ↓
+        Build Stage           Security Stage
+        ├─ Docker build       ├─ SonarQube scan
+        ├─ Unit tests         ├─ Dependency check
+        └─ Image push         └─ Container scan
+                                    ↓
+                    ┌───────────────┴───────────────┐
+                    ↓                               ↓
+            Dev Deployment              Staging Deployment
+            ├─ AKS (dev cluster)        ├─ AKS (staging cluster)
+            ├─ Helm deploy              ├─ Helm deploy
+            └─ Smoke tests              └─ Integration tests
+                    ↓                               ↓
+                    └───────────────┬───────────────┘
+                                    ↓
+                        Production Deployment (Manual Gate)
+                        ├─ AKS (prod cluster)
+                        ├─ Helm deploy
+                        ├─ Health checks
+                        └─ Monitoring alerts
+```
 
-End-to-end CI/CD for containerized voting application with **multi-environment deployment** (dev → staging → prod).
+**What I Built:**
+- ✅ **YAML-based CI/CD** pipelines with multiple stages
+- ✅ **Multi-environment deployment** (dev → staging → prod)
+- ✅ **Infrastructure provisioning** with Terraform
+- ✅ **AKS cluster management** with Helm charts
+- ✅ **Environment-specific configs** for consistency
+- ✅ **Automated testing** at each stage
+- ✅ **Deployment gates** for manual approvals
+- ✅ **100% deployment consistency** across environments
 
-**What I built:**
-- ✅ Azure DevOps pipelines with YAML infrastructure
-- ✅ AKS deployment with Helm charts & environment consistency
-- ✅ Infrastructure provisioning using Terraform
-- ✅ 100% deployment reliability across environments
-- ✅ Automated rollback capabilities
-- ✅ Environment-specific configurations
+**Technologies Used:**
+```
+Platform: Microsoft Azure (AKS, DevOps, Key Vault)
+IaC: Terraform, Azure Resource Manager templates
+Container: Kubernetes, Helm, Docker
+CI/CD: Azure DevOps Pipelines (YAML)
+Testing: Automated unit & integration tests
+```
 
-**Tech Stack:** `Azure DevOps` `AKS` `Kubernetes` `Terraform` `Helm` `YAML`
-
-**Why recruiters care:** Demonstrates Azure expertise and enterprise CI/CD pipeline design.
+**Key Learnings:**
+- Azure DevOps pipeline design patterns
+- Helm chart templating and versioning
+- Multi-stage deployment strategies
+- Environment management at scale
 
 ---
 
-### 🥉 DevSecOps CI Pipeline (Shift-Left Security)
-
+### 🥉 PROJECT: DevSecOps Shift-Left Security Pipeline
 **[→ devsecops-ci-pipeline](https://github.com/trivediayush/devsecops-ci-pipeline)**
+```
+SECURITY GATES IN CI PIPELINE:
 
-Fully automated CI pipeline with **security gates at every stage**. Security scanning blocks unsafe merges.
+Code Commit
+    ↓
+┌───────────────────────────────────────┐
+│ STAGE 1: Source Code Analysis         │
+│ ├─ SonarQube (code quality, SAST)     │
+│ ├─ Gitleaks (secret detection)        │
+│ └─ Gate: Block if vulnerabilities     │
+└───────────────────────────────────────┘
+    ↓
+┌───────────────────────────────────────┐
+│ STAGE 2: Build & Container Scan       │
+│ ├─ Docker build                       │
+│ ├─ Trivy (container image scan)       │
+│ ├─ Snyk (dependency vulnerabilities)  │
+│ └─ Gate: Block if HIGH/CRITICAL found │
+└───────────────────────────────────────┘
+    ↓
+┌───────────────────────────────────────┐
+│ STAGE 3: Deploy to Test Environment   │
+│ ├─ Deploy to staging                  │
+│ ├─ Security tests                     │
+│ └─ Performance tests                  │
+└───────────────────────────────────────┘
+    ↓
+✅ MERGE ALLOWED (All security gates passed)
+```
 
-**What I built:**
-- ✅ SAST scanning (SonarQube) for code quality
-- ✅ Secret scanning (Gitleaks) to prevent credential leaks
-- ✅ Dependency scanning (Snyk) for vulnerable libraries
-- ✅ Container scanning (Trivy) for image vulnerabilities
-- ✅ Automated security gates that block merges
-- ✅ 100% CI build coverage with security controls
+**What I Built:**
+- ✅ **100% CI build coverage** with security scanning
+- ✅ **SAST scanning** (SonarQube for code quality)
+- ✅ **Secret detection** (Gitleaks prevents credential leaks)
+- ✅ **Dependency scanning** (Snyk for vulnerable libraries)
+- ✅ **Container scanning** (Trivy for image vulnerabilities)
+- ✅ **Security gates** that block unsafe merges
+- ✅ **Automated remediation** suggestions
 
-**Tech Stack:** `GitHub Actions` `SonarQube` `Snyk` `Trivy` `Gitleaks` `Docker`
+**Technologies Used:**
+```
+CI/CD: GitHub Actions (event-driven workflows)
+SAST: SonarQube (static application security testing)
+Secrets: Gitleaks (regex-based secret scanning)
+Dependencies: Snyk (vulnerability database)
+Containers: Trivy (image vulnerability scanner)
+```
 
-**Why recruiters care:** Shows security-first mindset, critical for modern DevOps roles.
+**Key Learnings:**
+- Shift-left security principles
+- Threat modeling in CI/CD
+- Vulnerability management workflows
+- Security gate design
 
 ---
 
-### 🎯 More Notable Projects
+### 🎯 OTHER NOTABLE DEVOPS PROJECTS
 
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **[FastAPI Deploy Pipeline](https://github.com/trivediayush/fastapi-deploy-pipeline)** | Docker, Terraform, AWS EC2 | Production deployment pipeline with containerization & IaC |
-| **[Cloud-Native Pipeline](https://github.com/trivediayush/cloud-native-pipeline)** | Jenkins, Docker, Terraform, AWS | Complete CI/CD for web apps with code quality & security checks |
-| **[Docker Monitoring Stack](https://github.com/trivediayush/Docker-Monitoring-Stack)** | Prometheus, Grafana, Docker | Production-grade monitoring using Docker Compose |
-| **[AWS Cost Analytics](https://github.com/trivediayush/AWS-Cost-Analytics-and-FinOps-Dashboard)** | Python, SQLite, Grafana | FinOps dashboard tracking AWS usage & costs |
-| **[Jenkins Shared Libraries](https://github.com/trivediayush/Jenkins-Shared-Libraries)** | Groovy, Jenkins | Reusable pipeline code for enterprise Jenkins |
+| Project | Focus Area | Tech Stack | Impact |
+|---------|-----------|-----------|--------|
+| **[FastAPI Deploy Pipeline](https://github.com/trivediayush/fastapi-deploy-pipeline)** | Full Stack Deployment | Docker, Terraform, AWS EC2 | End-to-end production deployment |
+| **[Cloud-Native Pipeline](https://github.com/trivediayush/cloud-native-pipeline)** | Enterprise CI/CD | Jenkins, Docker, Terraform, AWS | Multi-tool integration, code quality, security |
+| **[Docker Monitoring Stack](https://github.com/trivediayush/Docker-Monitoring-Stack)** | Observability | Prometheus, Grafana, Docker | Production-grade monitoring setup |
+| **[AWS Cost Analytics](https://github.com/trivediayush/AWS-Cost-Analytics-and-FinOps-Dashboard)** | FinOps | Python, SQLite, Grafana | Cost optimization & tracking |
+| **[Jenkins Shared Libraries](https://github.com/trivediayush/Jenkins-Shared-Libraries)** | Pipeline Reusability | Groovy, Jenkins | DRY principle in Jenkins |
+| **[Terraform IaC Scripts](https://github.com/trivediayush/Terraform_IaaC)** | Infrastructure | Terraform, AWS/Azure | Modular, reusable infrastructure |
+| **[Kubernetes Local Cluster](https://github.com/trivediayush/Kubernetes-local-cluster)** | K8s Learning | Kubernetes, Minikube, Nginx | Container orchestration hands-on |
 
-**[👉 Explore All 30 Projects →](https://github.com/trivediayush?tab=repositories&q=devops)**
+[**→ View All 30 DevOps Repositories**](https://github.com/trivediayush?tab=repositories&q=devops)
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 🔐 DEVOPS SECURITY MINDSET
+
+### How I Approach Security
+```
+┌─────────────────────────────────────────────────┐
+│         SECURITY IS NOT OPTIONAL                │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  1. SHIFT-LEFT SECURITY                         │
+│     → Scan code at commit time (pre-merge)      │
+│     → Fail fast, fix early                      │
+│                                                 │
+│  2. SECRETS MANAGEMENT                          │
+│     → Never commit secrets                      │
+│     → Use vaults (Key Vault, AWS Secrets Mgr)   │
+│     → Rotate regularly                          │
+│                                                 │
+│  3. RBAC & IAM                                  │
+│     → Principle of least privilege              │
+│     → Service account separation                │
+│     → Regular access reviews                    │
+│                                                 │
+│  4. NETWORK SECURITY                            │
+│     → Network policies in K8s                   │
+│     → Security groups & NSGs                    │
+│     → VPC isolation                             │
+│                                                 │
+│  5. CONTINUOUS SCANNING                         │
+│     → SonarQube (code quality + SAST)           │
+│     → Snyk (dependencies)                       │
+│     → Trivy (container images)                  │
+│     → Gitleaks (secrets)                        │
+│                                                 │
+│ Result: ZERO SECURITY BLIND SPOTS               │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+## 📈 GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trivediayush&theme=react-dark&bg_color=0d1117&color=00d9a3&line=00b4ff&point=ff4d6d&area=true&hide_border=true&custom_title=My+Contribution+Journey" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trivediayush&theme=react-dark&bg_color=0d1117&color=00d9a3&line=00b4ff&point=ff4d6d&area=true&hide_border=true&custom_title=DevOps+Journey:+447+Contributions" width="97%" alt="GitHub Activity Graph" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=trivediayush&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9a3&icon_color=00b4ff&text_color=c9d1d9&card_width=500" />
+<img src="https://github-readme-stats.vercel.app/api?username=trivediayush&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9a3&icon_color=00b4ff&text_color=c9d1d9" alt="GitHub Stats" />
 
 </div>
 
 ---
 
-## 🎓 College Projects (Learning Journey)
+## 🎓 ACADEMIC PROJECTS (Learning Journey)
 
-These are academic projects from my B.Tech coursework. They showcase my learning in diverse technologies:
+These college projects showcase diverse technical skills during my B.Tech:
 
-- **🎓 [Facial Recognition Attendance System](https://github.com/trivediayush/Facial-Recognition-Attendance-System)** — Computer Vision with Python & OpenCV
-- **🎓 [Sentiment Analysis ML](https://github.com/trivediayush/Sentiment-Analysis-ML)** — NLP & Mental Health Analysis
-- **🎓 [Breast Cancer Detection](https://github.com/trivediayush/Breast-Cancer-Detection)** — ML Model with Scikit-learn
-- **🎓 [Accident & Drowsiness Detection](https://github.com/trivediayush/Accident-and-Drowsiness-Detection)** — Real-time Computer Vision
-- **🎓 [ImageBloom](https://github.com/trivediayush/ImageBloom)** — ReactJS Web Application
-- **🎓 [Travel Itinerary Planner](https://github.com/trivediayush/NextGen-Travel-Itinerary-Planner)** — React Native Mobile App
+- **🎓 Facial Recognition Attendance** — Computer Vision, Python, OpenCV
+- **🎓 Sentiment Analysis ML** — NLP, Scikit-learn, Mental Health Analysis
+- **🎓 Breast Cancer Detection** — ML Classification, Pandas, NumPy
+- **🎓 Accident & Drowsiness Detection** — Real-time CV, OpenCV
+- **🎓 ImageBloom** — Web Dev, ReactJS, APIs
+- **🎓 Travel Itinerary Planner** — Mobile App, React Native
 
-> **Note:** These were completed during my B.Tech (2021-2025). My professional focus is now **DevOps & Cloud Engineering.**
+> **Note:** Focus is now **DevOps & Cloud Engineering** (30+ production-grade DevOps projects)
 
 ---
 
-## 💡 My DevOps Approach
+## 💼 PROFESSIONAL EXPERIENCE
 ```
-PLAN → BUILD → TEST → SECURE → DEPLOY → MONITOR → IMPROVE → REPEAT
-  ↑                                                              ↓
-  └──────────────── AUTOMATE EVERYTHING ────────────────────────┘
+TIMELINE:
+2024-2025 ──┬──────────────────────────────────────
+            │
+            ├─ PearlThoughts (Apr-May 2025)
+            │  └─ DevOps Intern - Cloud automation, CI/CD
+            │
+            ├─ VKAPS IT Solutions (Jun-Nov 2025)
+            │  └─ DevOps Engineer - Jenkins, AWS, 70% speedup
+            │
+            └─ Aviasole Technologies (Nov 2025-Present)
+               └─ DevOps Engineer - Azure, K8s, DevSecOps, 30% MTTR reduction
+
+PROGRESSION: Intern → Full-time Engineer → Production Systems
+GROWTH: Learned containerization → Full K8s stack → DevSecOps
 ```
 
-**Core Philosophy:**
-- 🤖 **Automate everything** → Eliminate manual errors, save time
-- 🔐 **Security first** → Scan early, scan often, block bad code
-- 📈 **Monitor always** → Observe, alert, and fix issues fast
-- 🚀 **Ship fast** → Reliable, rapid deployments
-- 📚 **Keep learning** → DevOps is always evolving
+---
 
-**What I believe:**
-> *"A DevOps engineer's job is to make the developer's job easier while keeping systems secure and reliable."*
+## 🎯 DEVOPS ROADMAP (Next 12 Months)
+```
+Q1 2026                    Q2-Q3 2026                 Q4 2026+
+├─ Kubernetes CKA Cert     ├─ Advanced Terraform     ├─ Staff Engineer skills
+├─ Prometheus mastery      ├─ ECS/EKS deep dive      ├─ Architecture design
+├─ Production incidents    ├─ Cost optimization      ├─ Mentoring juniors
+└─ Helm advanced patterns  └─ Cross-cloud strategy   └─ Infrastructure scaling
+```
 
 ---
 
-## 🎯 My Goals
+## 🚀 OPEN TO OPPORTUNITIES
 
-**Next 6 months:**
-- 🎯 Deepen expertise in Kubernetes (pursuing CKA certification)
-- 🎯 Expand Terraform skills (enterprise-scale IaC)
-- 🎯 Master observability (Prometheus, Grafana, ELK)
-- 🎯 Learn Go for DevOps tooling
+I'm actively seeking **DevOps Engineer**, **SRE**, or **Cloud Infrastructure** roles where I can:
 
-**Long-term vision:**
-- Become a **Staff/Senior DevOps Engineer**
-- Build **automated, reliable cloud platforms**
-- Lead **infrastructure as code initiatives**
-- Mentor junior engineers
+✅ **Design & maintain** production CI/CD pipelines  
+✅ **Architect** Kubernetes and cloud infrastructure  
+✅ **Implement** DevSecOps and security best practices  
+✅ **Build** observability and monitoring solutions  
+✅ **Optimize** deployment processes and reduce MTTR  
+✅ **Mentor** junior engineers and share knowledge  
+✅ **Scale** infrastructure for growth-stage companies  
 
----
-
-## 💬 Let's Connect!
-
-I'm actively looking for **DevOps Engineer, SRE, or Cloud Engineer roles** where I can:
-- ✅ Build reliable, scalable infrastructure
-- ✅ Improve deployment pipelines & automation
-- ✅ Mentor and grow with a team
-- ✅ Work on exciting cloud-native projects
-
-**Interested in chatting about DevOps, cloud architecture, or opportunities?**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Send_Email-ayushtrivedi11jan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushtrivedi11jan@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-ayushtrivedi--in-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushtrivedi-in)
-
-[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-trivediayush.github.io-4A90E2?style=for-the-badge&logo=globe&logoColor=white)](https://trivediayush.github.io/Ayush-Trivedi/)
-
-</div>
+**Ideal Company Profile:**
+- 🎯 Cloud-native tech stack (Kubernetes, Terraform)
+- 🎯 DevSecOps culture
+- 🎯 Multi-environment setups
+- 🎯 Growing infrastructure needs
+- 🎯 Passionate team & continuous learning
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=00D9A3&center=true&vCenter=true&width=600&lines=Building+reliable+cloud+infrastructure+one+pipeline+at+a+time;Let's+automate+the+world+together!" alt="Typing SVG" />
+## 📞 LET'S TALK DEVOPS
 
-**© 2025 Ayush Trivedi** | DevOps Engineer | Cloud Automation Enthusiast
+**Interested in collaborating or discussing opportunities?**
 
-*Last updated: March 2026* | *Open to Opportunities* 🚀
+[![Email](https://img.shields.io/badge/📧_Email-ayushtrivedi11jan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushtrivedi11jan@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-ayushtrivedi--in-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushtrivedi-in)
+
+[![GitHub](https://img.shields.io/badge/💻_GitHub-trivediayush-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trivediayush)
+
+---
+```
+Automate everything. Secure everything. Monitor everything. Deploy fearlessly.
+```
+
+**© 2025 Ayush Trivedi** | DevOps Engineer | Infrastructure Automation Specialist
+
+*Last Updated: March 2026* | *Open to Full-Time Opportunities* 🚀
 
 </div>
