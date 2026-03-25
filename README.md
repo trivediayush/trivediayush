@@ -39,7 +39,7 @@ $ cat profile.json
 | 📦 ORCHESTRATION | 🛡️ SECURITY | 📊 MONITORING |
 | :---: | :---: | :---: |
 | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1628?style=flat-square&logo=helm&logoColor=white) | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![Snyk](https://img.shields.io/badge/Snyk-700136?style=flat-square&logo=snyk&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-2496ED?style=flat-square) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticstack&logoColor=white) |
-| ![Orch Status](https://img.shields.io/badge/STATUS-RESILIENT-00d9a3?style=for-the-badge) | ![Sec Status](https://img.shields.io/badge/STATUS-SHIFT--LEFT-00d9a3?style=for-the-badge) | ![Obs Status](https://img.shields.io/badge/STATUS-OBSERVABLE-00d9a3?style=for-the-badge) |
+| ![Orch Status](https://img.shields.io/badge/STATUS-RESILIENT-00d9a3?style=for-the-badge) | ![Sec Status](https://img.shields.io/badge/STATUS-Secure-00d9a3?style=for-the-badge) | ![Obs Status](https://img.shields.io/badge/STATUS-OBSERVABLE-00d9a3?style=for-the-badge) |
 
 ---
 
