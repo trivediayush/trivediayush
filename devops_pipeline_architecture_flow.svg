@@ -1,259 +1,347 @@
-<svg width="900" height="820" viewBox="0 0 900 820" xmlns="http://www.w3.org/2000/svg" font-family="monospace, sans-serif">
-
-  <!-- Background -->
-  <rect width="900" height="820" fill="#0d1117" rx="12"/>
-
-  <!-- Title bar -->
-  <rect x="30" y="18" width="840" height="38" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="450" y="41" text-anchor="middle" fill="#00d9a3" font-size="15" font-weight="bold" letter-spacing="2">⚙  DEVOPS PIPELINE · END-TO-END FLOW</text>
-
-  <!-- ══ STAGE LABELS (left spine) ══ -->
-  <line x1="60" y1="70" x2="60" y2="790" stroke="#21262d" stroke-width="1" stroke-dasharray="4 4"/>
-
-  <text x="48" y="145" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,145)">CODE</text>
-  <text x="48" y="255" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,255)">BUILD</text>
-  <text x="48" y="375" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,375)">SECURE</text>
-  <text x="48" y="495" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,495)">DEPLOY</text>
-  <text x="48" y="615" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,615)">MONITOR</text>
-  <text x="48" y="735" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,735)">INFRA</text>
-
-  <!-- ══ ROW 1: CODE ══ -->
-  <!-- Developer -->
-  <rect x="78" y="108" width="140" height="54" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="148" y="129" text-anchor="middle" fill="#c9d1d9" font-size="12" font-weight="bold">Developer</text>
-  <text x="148" y="148" text-anchor="middle" fill="#6e7681" font-size="10">Local commit</text>
-
-  <!-- arrow + label -->
-  <line x1="218" y1="135" x2="268" y2="135" stroke="#00d9a3" stroke-width="1.5" marker-end="url(#arr-green)"/>
-  <text x="243" y="127" text-anchor="middle" fill="#00d9a3" font-size="9">git push</text>
-
-  <!-- GitHub Repo -->
-  <rect x="268" y="108" width="160" height="54" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="348" y="129" text-anchor="middle" fill="#c9d1d9" font-size="12" font-weight="bold">GitHub Repo</text>
-  <text x="348" y="148" text-anchor="middle" fill="#6e7681" font-size="10">PR + code review</text>
-
-  <!-- arrow -->
-  <line x1="428" y1="135" x2="478" y2="135" stroke="#00d9a3" stroke-width="1.5" marker-end="url(#arr-green)"/>
-  <text x="453" y="127" text-anchor="middle" fill="#00d9a3" font-size="9">trigger</text>
-
-  <!-- GitHub Actions -->
-  <rect x="478" y="108" width="175" height="54" rx="7" fill="#0d2137" stroke="#378ADD" stroke-width="1.2"/>
-  <text x="565" y="129" text-anchor="middle" fill="#85B7EB" font-size="12" font-weight="bold">GitHub Actions</text>
-  <text x="565" y="148" text-anchor="middle" fill="#4d8cc4" font-size="10">Webhook event fired</text>
-
-  <!-- Jenkins (alternative) -->
-  <rect x="668" y="108" width="130" height="54" rx="7" fill="#1a1208" stroke="#D24939" stroke-width="1"/>
-  <text x="733" y="129" text-anchor="middle" fill="#e07060" font-size="12" font-weight="bold">Jenkins</text>
-  <text x="733" y="148" text-anchor="middle" fill="#7a3828" font-size="10">Alt CI runner</text>
-
-  <!-- down arrow code→build -->
-  <line x1="565" y1="162" x2="565" y2="210" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arr-blue)"/>
-
-  <!-- ══ ROW 2: BUILD ══ -->
-  <!-- subgraph bg -->
-  <rect x="78" y="210" width="720" height="74" rx="8" fill="#0a1520" stroke="#378ADD" stroke-width="1" stroke-dasharray="5 3"/>
-  <text x="90" y="225" fill="#378ADD" font-size="9" font-weight="bold">BUILD</text>
-
-  <!-- Unit Tests -->
-  <rect x="88" y="228" width="155" height="46" rx="6" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
-  <text x="165" y="247" text-anchor="middle" fill="#85B7EB" font-size="11" font-weight="bold">Unit Tests</text>
-  <text x="165" y="263" text-anchor="middle" fill="#4d8cc4" font-size="10">pytest / Jest</text>
-
-  <!-- arrow -->
-  <line x1="243" y1="251" x2="278" y2="251" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arr-blue)"/>
-
-  <!-- Docker Build -->
-  <rect x="278" y="228" width="165" height="46" rx="6" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
-  <text x="360" y="247" text-anchor="middle" fill="#85B7EB" font-size="11" font-weight="bold">Docker Build</text>
-  <text x="360" y="263" text-anchor="middle" fill="#4d8cc4" font-size="10">Image + layer cache</text>
-
-  <!-- arrow -->
-  <line x1="443" y1="251" x2="478" y2="251" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arr-blue)"/>
-
-  <!-- Container Registry -->
-  <rect x="478" y="228" width="175" height="46" rx="6" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
-  <text x="565" y="247" text-anchor="middle" fill="#85B7EB" font-size="11" font-weight="bold">Container Registry</text>
-  <text x="565" y="263" text-anchor="middle" fill="#4d8cc4" font-size="10">ECR / ACR / GHCR</text>
-
-  <!-- arrow -->
-  <line x1="653" y1="251" x2="688" y2="251" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arr-blue)"/>
-
-  <!-- Artifact Store -->
-  <rect x="688" y="228" width="102" height="46" rx="6" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
-  <text x="739" y="247" text-anchor="middle" fill="#85B7EB" font-size="11" font-weight="bold">Artifacts</text>
-  <text x="739" y="263" text-anchor="middle" fill="#4d8cc4" font-size="10">Versioned tags</text>
-
-  <!-- down arrow build→security -->
-  <line x1="565" y1="284" x2="565" y2="330" stroke="#7F77DD" stroke-width="1.5" marker-end="url(#arr-purple)"/>
-
-  <!-- ══ ROW 3: SECURITY ══ -->
-  <rect x="78" y="330" width="720" height="74" rx="8" fill="#100a1e" stroke="#7F77DD" stroke-width="1" stroke-dasharray="5 3"/>
-  <text x="90" y="345" fill="#7F77DD" font-size="9" font-weight="bold">SHIFT-LEFT SECURITY</text>
-
-  <!-- SonarQube -->
-  <rect x="88" y="348" width="152" height="46" rx="6" fill="#1a1030" stroke="#7F77DD" stroke-width="1"/>
-  <text x="164" y="367" text-anchor="middle" fill="#AFA9EC" font-size="11" font-weight="bold">SonarQube</text>
-  <text x="164" y="383" text-anchor="middle" fill="#6b63b5" font-size="10">SAST code scan</text>
-
-  <line x1="240" y1="371" x2="268" y2="371" stroke="#7F77DD" stroke-width="1.5" marker-end="url(#arr-purple)"/>
-
-  <!-- Snyk -->
-  <rect x="268" y="348" width="130" height="46" rx="6" fill="#1a1030" stroke="#7F77DD" stroke-width="1"/>
-  <text x="333" y="367" text-anchor="middle" fill="#AFA9EC" font-size="11" font-weight="bold">Snyk</text>
-  <text x="333" y="383" text-anchor="middle" fill="#6b63b5" font-size="10">Dependency CVEs</text>
-
-  <line x1="398" y1="371" x2="428" y2="371" stroke="#7F77DD" stroke-width="1.5" marker-end="url(#arr-purple)"/>
-
-  <!-- Trivy -->
-  <rect x="428" y="348" width="130" height="46" rx="6" fill="#1a1030" stroke="#7F77DD" stroke-width="1"/>
-  <text x="493" y="367" text-anchor="middle" fill="#AFA9EC" font-size="11" font-weight="bold">Trivy</text>
-  <text x="493" y="383" text-anchor="middle" fill="#6b63b5" font-size="10">Image vuln scan</text>
-
-  <line x1="558" y1="371" x2="588" y2="371" stroke="#7F77DD" stroke-width="1.5" marker-end="url(#arr-purple)"/>
-
-  <!-- Gitleaks -->
-  <rect x="588" y="348" width="130" height="46" rx="6" fill="#1a1030" stroke="#7F77DD" stroke-width="1"/>
-  <text x="653" y="367" text-anchor="middle" fill="#AFA9EC" font-size="11" font-weight="bold">Gitleaks</text>
-  <text x="653" y="383" text-anchor="middle" fill="#6b63b5" font-size="10">Secret detection</text>
-
-  <!-- down arrow security→deploy -->
-  <line x1="565" y1="404" x2="565" y2="450" stroke="#D85A30" stroke-width="1.5" marker-end="url(#arr-coral)"/>
-
-  <!-- ══ ROW 4: DEPLOY ══ -->
-  <rect x="78" y="450" width="720" height="74" rx="8" fill="#160a04" stroke="#D85A30" stroke-width="1" stroke-dasharray="5 3"/>
-  <text x="90" y="465" fill="#D85A30" font-size="9" font-weight="bold">DEPLOY</text>
-
-  <!-- ArgoCD -->
-  <rect x="88" y="468" width="140" height="46" rx="6" fill="#1f0d08" stroke="#D85A30" stroke-width="1"/>
-  <text x="158" y="487" text-anchor="middle" fill="#F0997B" font-size="11" font-weight="bold">ArgoCD</text>
-  <text x="158" y="503" text-anchor="middle" fill="#8a3d1a" font-size="10">GitOps sync</text>
-
-  <line x1="228" y1="491" x2="258" y2="491" stroke="#D85A30" stroke-width="1.5" marker-end="url(#arr-coral)"/>
-
-  <!-- Helm -->
-  <rect x="258" y="468" width="130" height="46" rx="6" fill="#1f0d08" stroke="#D85A30" stroke-width="1"/>
-  <text x="323" y="487" text-anchor="middle" fill="#F0997B" font-size="11" font-weight="bold">Helm</text>
-  <text x="323" y="503" text-anchor="middle" fill="#8a3d1a" font-size="10">K8s templating</text>
-
-  <line x1="388" y1="491" x2="418" y2="491" stroke="#D85A30" stroke-width="1.5" marker-end="url(#arr-coral)"/>
-
-  <!-- EKS/AKS -->
-  <rect x="418" y="468" width="140" height="46" rx="6" fill="#1f0d08" stroke="#D85A30" stroke-width="1"/>
-  <text x="488" y="487" text-anchor="middle" fill="#F0997B" font-size="11" font-weight="bold">EKS / AKS</text>
-  <text x="488" y="503" text-anchor="middle" fill="#8a3d1a" font-size="10">Kubernetes cluster</text>
-
-  <line x1="558" y1="491" x2="588" y2="491" stroke="#D85A30" stroke-width="1.5" marker-end="url(#arr-coral)"/>
-
-  <!-- Multi-env -->
-  <rect x="588" y="468" width="200" height="46" rx="6" fill="#1f0d08" stroke="#D85A30" stroke-width="1"/>
-  <text x="688" y="487" text-anchor="middle" fill="#F0997B" font-size="11" font-weight="bold">Multi-env</text>
-  <text x="688" y="503" text-anchor="middle" fill="#8a3d1a" font-size="10">Dev → Stage → Production</text>
-
-  <!-- down arrow deploy→monitor -->
-  <line x1="450" y1="524" x2="450" y2="570" stroke="#EF9F27" stroke-width="1.5" marker-end="url(#arr-amber)"/>
-
-  <!-- ══ ROW 5: MONITOR ══ -->
-  <rect x="78" y="570" width="720" height="74" rx="8" fill="#140f00" stroke="#EF9F27" stroke-width="1" stroke-dasharray="5 3"/>
-  <text x="90" y="585" fill="#EF9F27" font-size="9" font-weight="bold">OBSERVE</text>
-
-  <!-- Prometheus -->
-  <rect x="88" y="588" width="155" height="46" rx="6" fill="#1f1500" stroke="#EF9F27" stroke-width="1"/>
-  <text x="165" y="607" text-anchor="middle" fill="#FAC775" font-size="11" font-weight="bold">Prometheus</text>
-  <text x="165" y="623" text-anchor="middle" fill="#8a5c0a" font-size="10">Metrics scraping</text>
-
-  <line x1="243" y1="611" x2="278" y2="611" stroke="#EF9F27" stroke-width="1.5" marker-end="url(#arr-amber)"/>
-
-  <!-- Grafana -->
-  <rect x="278" y="588" width="140" height="46" rx="6" fill="#1f1500" stroke="#EF9F27" stroke-width="1"/>
-  <text x="348" y="607" text-anchor="middle" fill="#FAC775" font-size="11" font-weight="bold">Grafana</text>
-  <text x="348" y="623" text-anchor="middle" fill="#8a5c0a" font-size="10">Dashboards</text>
-
-  <line x1="418" y1="611" x2="453" y2="611" stroke="#EF9F27" stroke-width="1.5" marker-end="url(#arr-amber)"/>
-
-  <!-- ELK -->
-  <rect x="453" y="588" width="140" height="46" rx="6" fill="#1f1500" stroke="#EF9F27" stroke-width="1"/>
-  <text x="523" y="607" text-anchor="middle" fill="#FAC775" font-size="11" font-weight="bold">ELK Stack</text>
-  <text x="523" y="623" text-anchor="middle" fill="#8a5c0a" font-size="10">Log aggregation</text>
-
-  <line x1="593" y1="611" x2="628" y2="611" stroke="#EF9F27" stroke-width="1.5" marker-end="url(#arr-amber)"/>
-
-  <!-- Alerting -->
-  <rect x="628" y="588" width="162" height="46" rx="6" fill="#1f1500" stroke="#EF9F27" stroke-width="1"/>
-  <text x="709" y="607" text-anchor="middle" fill="#FAC775" font-size="11" font-weight="bold">Alerting</text>
-  <text x="709" y="623" text-anchor="middle" fill="#8a5c0a" font-size="10">PagerDuty / Slack</text>
-
-  <!-- down arrow monitor→infra -->
-  <line x1="250" y1="644" x2="250" y2="690" stroke="#639922" stroke-width="1.5" marker-end="url(#arr-green2)"/>
-
-  <!-- ══ ROW 6: INFRA ══ -->
-  <rect x="78" y="690" width="720" height="74" rx="8" fill="#081208" stroke="#639922" stroke-width="1" stroke-dasharray="5 3"/>
-  <text x="90" y="705" fill="#639922" font-size="9" font-weight="bold">INFRA AS CODE</text>
-
-  <!-- Terraform -->
-  <rect x="88" y="708" width="155" height="46" rx="6" fill="#0a1a08" stroke="#639922" stroke-width="1"/>
-  <text x="165" y="727" text-anchor="middle" fill="#97C459" font-size="11" font-weight="bold">Terraform</text>
-  <text x="165" y="743" text-anchor="middle" fill="#3B6D11" font-size="10">IaC provisioning</text>
-
-  <line x1="243" y1="731" x2="278" y2="731" stroke="#639922" stroke-width="1.5" marker-end="url(#arr-green2)"/>
-
-  <!-- Ansible -->
-  <rect x="278" y="708" width="140" height="46" rx="6" fill="#0a1a08" stroke="#639922" stroke-width="1"/>
-  <text x="348" y="727" text-anchor="middle" fill="#97C459" font-size="11" font-weight="bold">Ansible</text>
-  <text x="348" y="743" text-anchor="middle" fill="#3B6D11" font-size="10">Config mgmt</text>
-
-  <line x1="418" y1="731" x2="453" y2="731" stroke="#639922" stroke-width="1.5" marker-end="url(#arr-green2)"/>
-
-  <!-- Multi-cloud -->
-  <rect x="453" y="708" width="335" height="46" rx="6" fill="#0a1a08" stroke="#639922" stroke-width="1"/>
-  <text x="620" y="727" text-anchor="middle" fill="#97C459" font-size="11" font-weight="bold">Multi-cloud</text>
-  <text x="620" y="743" text-anchor="middle" fill="#3B6D11" font-size="10">AWS · Azure · OCI</text>
-
-  <!-- ══ FEEDBACK LOOPS ══ -->
-  <!-- MTTR loop: Alert → ArgoCD (right side curved) -->
-  <path d="M798 611 C855 611 855 491 798 491" fill="none" stroke="#EF9F27" stroke-width="1" stroke-dasharray="5 3" marker-end="url(#arr-amber)"/>
-  <text x="862" y="548" text-anchor="middle" fill="#8a5c0a" font-size="9">MTTR</text>
-  <text x="862" y="560" text-anchor="middle" fill="#8a5c0a" font-size="9">loop</text>
-
-  <!-- GitOps watch: ArgoCD → GitHub (left side curved) -->
-  <path d="M88 491 C30 491 30 135 88 135" fill="none" stroke="#D85A30" stroke-width="1" stroke-dasharray="5 3" marker-end="url(#arr-coral)"/>
-  <text x="20" y="308" text-anchor="middle" fill="#8a3d1a" font-size="9" transform="rotate(-90,20,308)">GitOps watch</text>
-
-  <!-- ══ LEGEND ══ -->
-  <rect x="78" y="778" width="720" height="28" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <rect x="92" y="787" width="10" height="10" rx="2" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
-  <text x="108" y="797" fill="#378ADD" font-size="10">Build</text>
-  <rect x="160" y="787" width="10" height="10" rx="2" fill="#1a1030" stroke="#7F77DD" stroke-width="1"/>
-  <text x="176" y="797" fill="#7F77DD" font-size="10">Security</text>
-  <rect x="240" y="787" width="10" height="10" rx="2" fill="#1f0d08" stroke="#D85A30" stroke-width="1"/>
-  <text x="256" y="797" fill="#D85A30" font-size="10">Deploy</text>
-  <rect x="310" y="787" width="10" height="10" rx="2" fill="#1f1500" stroke="#EF9F27" stroke-width="1"/>
-  <text x="326" y="797" fill="#EF9F27" font-size="10">Monitor</text>
-  <rect x="390" y="787" width="10" height="10" rx="2" fill="#0a1a08" stroke="#639922" stroke-width="1"/>
-  <text x="406" y="797" fill="#639922" font-size="10">Infra</text>
-  <line x1="450" y1="792" x2="478" y2="792" stroke="#6e7681" stroke-width="1" stroke-dasharray="4 3"/>
-  <text x="484" y="797" fill="#6e7681" font-size="10">Feedback loop</text>
-  <text x="680" y="797" fill="#21262d" font-size="10">trivediayush · DevOps Pipeline</text>
-
-  <!-- ══ ARROW MARKERS ══ -->
+<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', Courier, monospace">
   <defs>
-    <marker id="arr-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M2 1L8 5L2 9" fill="none" stroke="#00d9a3" stroke-width="1.5" stroke-linecap="round"/>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1L9 5L1 9" fill="none" stroke="#00d9a3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     </marker>
-    <marker id="arr-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M2 1L8 5L2 9" fill="none" stroke="#378ADD" stroke-width="1.5" stroke-linecap="round"/>
+    <marker id="ab" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1L9 5L1 9" fill="none" stroke="#378ADD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     </marker>
-    <marker id="arr-purple" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M2 1L8 5L2 9" fill="none" stroke="#7F77DD" stroke-width="1.5" stroke-linecap="round"/>
+    <marker id="ap" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1L9 5L1 9" fill="none" stroke="#AFA9EC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     </marker>
-    <marker id="arr-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M2 1L8 5L2 9" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-linecap="round"/>
+    <marker id="ac" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1L9 5L1 9" fill="none" stroke="#F0997B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     </marker>
-    <marker id="arr-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M2 1L8 5L2 9" fill="none" stroke="#EF9F27" stroke-width="1.5" stroke-linecap="round"/>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1L9 5L1 9" fill="none" stroke="#FAC775" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     </marker>
-    <marker id="arr-green2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M2 1L8 5L2 9" fill="none" stroke="#639922" stroke-width="1.5" stroke-linecap="round"/>
+    <marker id="agr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1L9 5L1 9" fill="none" stroke="#97C459" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="ago" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1L9 5L1 9" fill="none" stroke="#888" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     </marker>
   </defs>
 
+  <!-- BG -->
+  <rect width="900" height="560" fill="#0d1117" rx="0"/>
+
+  <!-- TITLE -->
+  <rect x="0" y="0" width="900" height="38" fill="#161b22"/>
+  <line x1="0" y1="38" x2="900" y2="38" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="25" text-anchor="middle" fill="#00d9a3" font-size="13" font-weight="bold" letter-spacing="3">DEVOPS PIPELINE ARCHITECTURE  ·  END-TO-END FLOW</text>
+
+  <!-- ─── COLUMN HEADERS ─── -->
+  <!-- Row Y positions: infra=50, code=130, build=210, security=295, deploy=375, monitor=455 -->
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- ROW 0: INFRA (Foundation) -->
+  <!-- ══════════════════════════════════════════ -->
+  <rect x="10" y="46" width="880" height="64" rx="6" fill="#0a1a08" stroke="#639922" stroke-width="1" stroke-dasharray="6 3"/>
+  <text x="22" y="59" fill="#639922" font-size="8" font-weight="bold" letter-spacing="1">① INFRA AS CODE  —  provision everything first</text>
+
+  <!-- Terraform -->
+  <rect x="22" y="62" width="120" height="40" rx="5" fill="#0f2010" stroke="#639922" stroke-width="1"/>
+  <text x="82" y="79" text-anchor="middle" fill="#97C459" font-size="10" font-weight="bold">Terraform</text>
+  <text x="82" y="93" text-anchor="middle" fill="#3B6D11" font-size="8">IaC provisioning</text>
+
+  <line x1="142" y1="82" x2="170" y2="82" stroke="#97C459" stroke-width="1.2" marker-end="url(#agr)"/>
+
+  <!-- Ansible -->
+  <rect x="170" y="62" width="120" height="40" rx="5" fill="#0f2010" stroke="#639922" stroke-width="1"/>
+  <text x="230" y="79" text-anchor="middle" fill="#97C459" font-size="10" font-weight="bold">Ansible</text>
+  <text x="230" y="93" text-anchor="middle" fill="#3B6D11" font-size="8">Config management</text>
+
+  <line x1="290" y1="82" x2="318" y2="82" stroke="#97C459" stroke-width="1.2" marker-end="url(#agr)"/>
+
+  <!-- AWS -->
+  <rect x="318" y="62" width="90" height="40" rx="5" fill="#0f2010" stroke="#639922" stroke-width="1"/>
+  <text x="363" y="79" text-anchor="middle" fill="#97C459" font-size="10" font-weight="bold">AWS</text>
+  <text x="363" y="93" text-anchor="middle" fill="#3B6D11" font-size="8">EC2, EKS, RDS</text>
+
+  <line x1="408" y1="82" x2="428" y2="82" stroke="#97C459" stroke-width="1.2" marker-end="url(#agr)"/>
+
+  <!-- Azure -->
+  <rect x="428" y="62" width="90" height="40" rx="5" fill="#0f2010" stroke="#639922" stroke-width="1"/>
+  <text x="473" y="79" text-anchor="middle" fill="#97C459" font-size="10" font-weight="bold">Azure</text>
+  <text x="473" y="93" text-anchor="middle" fill="#3B6D11" font-size="8">AKS, ACR, VMs</text>
+
+  <line x1="518" y1="82" x2="538" y2="82" stroke="#97C459" stroke-width="1.2" marker-end="url(#agr)"/>
+
+  <!-- OCI -->
+  <rect x="538" y="62" width="90" height="40" rx="5" fill="#0f2010" stroke="#639922" stroke-width="1"/>
+  <text x="583" y="79" text-anchor="middle" fill="#97C459" font-size="10" font-weight="bold">OCI</text>
+  <text x="583" y="93" text-anchor="middle" fill="#3B6D11" font-size="8">OKE, Registry</text>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- ROW 1: CODE -->
+  <!-- ══════════════════════════════════════════ -->
+  <!-- Down arrow: INFRA → CODE -->
+  <line x1="82" y1="106" x2="82" y2="126" stroke="#00d9a3" stroke-width="1.2" marker-end="url(#ag)"/>
+
+  <rect x="10" y="126" width="880" height="64" rx="6" fill="#0c1c10" stroke="#00d9a3" stroke-width="1" stroke-dasharray="6 3"/>
+  <text x="22" y="139" fill="#00d9a3" font-size="8" font-weight="bold" letter-spacing="1">② CODE  —  developer writes, commits, reviews</text>
+
+  <!-- Developer -->
+  <rect x="22" y="142" width="110" height="40" rx="5" fill="#0a1f10" stroke="#00d9a3" stroke-width="1"/>
+  <text x="77" y="159" text-anchor="middle" fill="#00d9a3" font-size="10" font-weight="bold">Developer</text>
+  <text x="77" y="173" text-anchor="middle" fill="#1a6640" font-size="8">Write + commit</text>
+
+  <line x1="132" y1="162" x2="160" y2="162" stroke="#00d9a3" stroke-width="1.2" marker-end="url(#ag)"/>
+  <text x="146" y="157" text-anchor="middle" fill="#1a6640" font-size="7">git push</text>
+
+  <!-- GitHub Repo -->
+  <rect x="160" y="142" width="130" height="40" rx="5" fill="#0a1f10" stroke="#00d9a3" stroke-width="1"/>
+  <text x="225" y="159" text-anchor="middle" fill="#00d9a3" font-size="10" font-weight="bold">GitHub Repo</text>
+  <text x="225" y="173" text-anchor="middle" fill="#1a6640" font-size="8">Branch + PR review</text>
+
+  <line x1="290" y1="162" x2="318" y2="162" stroke="#00d9a3" stroke-width="1.2" marker-end="url(#ag)"/>
+  <text x="304" y="157" text-anchor="middle" fill="#1a6640" font-size="7">merge</text>
+
+  <!-- Main Branch -->
+  <rect x="318" y="142" width="120" height="40" rx="5" fill="#0a1f10" stroke="#00d9a3" stroke-width="1"/>
+  <text x="378" y="159" text-anchor="middle" fill="#00d9a3" font-size="10" font-weight="bold">Main Branch</text>
+  <text x="378" y="173" text-anchor="middle" fill="#1a6640" font-size="8">Protected + signed</text>
+
+  <line x1="438" y1="162" x2="466" y2="162" stroke="#00d9a3" stroke-width="1.2" marker-end="url(#ag)"/>
+  <text x="452" y="157" text-anchor="middle" fill="#1a6640" font-size="7">trigger</text>
+
+  <!-- GitHub Actions -->
+  <rect x="466" y="142" width="140" height="40" rx="5" fill="#0a1f10" stroke="#00d9a3" stroke-width="1.2"/>
+  <text x="536" y="159" text-anchor="middle" fill="#00d9a3" font-size="10" font-weight="bold">GitHub Actions</text>
+  <text x="536" y="173" text-anchor="middle" fill="#1a6640" font-size="8">Webhook → CI start</text>
+
+  <line x1="606" y1="162" x2="634" y2="162" stroke="#888" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#ago)"/>
+  <text x="620" y="157" text-anchor="middle" fill="#555" font-size="7">or</text>
+
+  <!-- Jenkins alt -->
+  <rect x="634" y="142" width="100" height="40" rx="5" fill="#1a1008" stroke="#D24939" stroke-width="1"/>
+  <text x="684" y="159" text-anchor="middle" fill="#e07060" font-size="10" font-weight="bold">Jenkins</text>
+  <text x="684" y="173" text-anchor="middle" fill="#6a2818" font-size="8">Alt CI runner</text>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- ROW 2: BUILD -->
+  <!-- ══════════════════════════════════════════ -->
+  <!-- Down arrow CODE → BUILD (from Actions) -->
+  <line x1="536" y1="186" x2="536" y2="206" stroke="#378ADD" stroke-width="1.2" marker-end="url(#ab)"/>
+
+  <rect x="10" y="206" width="880" height="64" rx="6" fill="#0d1e30" stroke="#378ADD" stroke-width="1" stroke-dasharray="6 3"/>
+  <text x="22" y="219" fill="#378ADD" font-size="8" font-weight="bold" letter-spacing="1">③ BUILD  —  test in parallel, then containerise</text>
+
+  <!-- Unit Tests -->
+  <rect x="22" y="222" width="110" height="40" rx="5" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
+  <text x="77" y="239" text-anchor="middle" fill="#85B7EB" font-size="10" font-weight="bold">Unit Tests</text>
+  <text x="77" y="253" text-anchor="middle" fill="#2a5a8a" font-size="8">pytest / Jest</text>
+
+  <!-- parallel bracket line from CI down to tests + lint -->
+  <line x1="536" y1="206" x2="77"  y2="206" stroke="#378ADD" stroke-width="0.8"/>
+  <line x1="536" y1="206" x2="200" y2="206" stroke="#378ADD" stroke-width="0.8"/>
+  <line x1="77"  y1="206" x2="77"  y2="222" stroke="#378ADD" stroke-width="0.8" marker-end="url(#ab)"/>
+  <line x1="200" y1="206" x2="200" y2="222" stroke="#378ADD" stroke-width="0.8" marker-end="url(#ab)"/>
+
+  <!-- Lint / SAST -->
+  <rect x="148" y="222" width="110" height="40" rx="5" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
+  <text x="203" y="239" text-anchor="middle" fill="#85B7EB" font-size="10" font-weight="bold">Lint + SAST</text>
+  <text x="203" y="253" text-anchor="middle" fill="#2a5a8a" font-size="8">ESLint / SonarQube</text>
+
+  <!-- join arrow → Docker -->
+  <line x1="132" y1="242" x2="298" y2="242" stroke="#378ADD" stroke-width="0.8"/>
+  <line x1="258" y1="242" x2="258" y2="242" stroke="#378ADD" stroke-width="0.8"/>
+  <line x1="298" y1="222" x2="298" y2="242" stroke="#378ADD" stroke-width="0.8"/>
+  <line x1="298" y1="242" x2="318" y2="242" stroke="#378ADD" stroke-width="1.2" marker-end="url(#ab)"/>
+  <text x="305" y="235" fill="#2a5a8a" font-size="7">pass</text>
+
+  <!-- Docker Build -->
+  <rect x="318" y="222" width="120" height="40" rx="5" fill="#0d2137" stroke="#378ADD" stroke-width="1.2"/>
+  <text x="378" y="239" text-anchor="middle" fill="#85B7EB" font-size="10" font-weight="bold">Docker Build</text>
+  <text x="378" y="253" text-anchor="middle" fill="#2a5a8a" font-size="8">Multi-stage image</text>
+
+  <line x1="438" y1="242" x2="466" y2="242" stroke="#378ADD" stroke-width="1.2" marker-end="url(#ab)"/>
+
+  <!-- Container Registry -->
+  <rect x="466" y="222" width="148" height="40" rx="5" fill="#0d2137" stroke="#378ADD" stroke-width="1.2"/>
+  <text x="540" y="239" text-anchor="middle" fill="#85B7EB" font-size="10" font-weight="bold">Container Registry</text>
+  <text x="540" y="253" text-anchor="middle" fill="#2a5a8a" font-size="8">ECR / ACR / GHCR</text>
+
+  <line x1="614" y1="242" x2="642" y2="242" stroke="#378ADD" stroke-width="1.2" marker-end="url(#ab)"/>
+
+  <!-- Artifact tagged -->
+  <rect x="642" y="222" width="120" height="40" rx="5" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
+  <text x="702" y="239" text-anchor="middle" fill="#85B7EB" font-size="10" font-weight="bold">Versioned Tag</text>
+  <text x="702" y="253" text-anchor="middle" fill="#2a5a8a" font-size="8">v1.4.2-sha-abc123</text>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- ROW 3: SECURITY GATE -->
+  <!-- ══════════════════════════════════════════ -->
+  <line x1="540" y1="262" x2="540" y2="286" stroke="#AFA9EC" stroke-width="1.2" marker-end="url(#ap)"/>
+
+  <rect x="10" y="286" width="880" height="64" rx="6" fill="#100a1e" stroke="#AFA9EC" stroke-width="1" stroke-dasharray="6 3"/>
+  <text x="22" y="299" fill="#AFA9EC" font-size="8" font-weight="bold" letter-spacing="1">④ SECURITY GATE  —  all scanners run in parallel, must all pass</text>
+
+  <!-- Fan out from registry -->
+  <line x1="540" y1="286" x2="100" y2="286" stroke="#AFA9EC" stroke-width="0.8"/>
+  <line x1="540" y1="286" x2="270" y2="286" stroke="#AFA9EC" stroke-width="0.8"/>
+  <line x1="540" y1="286" x2="420" y2="286" stroke="#AFA9EC" stroke-width="0.8"/>
+  <line x1="100" y1="286" x2="100" y2="302" stroke="#AFA9EC" stroke-width="0.8" marker-end="url(#ap)"/>
+  <line x1="270" y1="286" x2="270" y2="302" stroke="#AFA9EC" stroke-width="0.8" marker-end="url(#ap)"/>
+  <line x1="420" y1="286" x2="420" y2="302" stroke="#AFA9EC" stroke-width="0.8" marker-end="url(#ap)"/>
+  <line x1="540" y1="286" x2="540" y2="302" stroke="#AFA9EC" stroke-width="0.8" marker-end="url(#ap)"/>
+  <line x1="660" y1="286" x2="660" y2="302" stroke="#AFA9EC" stroke-width="0.8" marker-end="url(#ap)"/>
+  <line x1="540" y1="286" x2="660" y2="286" stroke="#AFA9EC" stroke-width="0.8"/>
+
+  <!-- Snyk -->
+  <rect x="22"  y="302" width="116" height="40" rx="5" fill="#1a1030" stroke="#AFA9EC" stroke-width="1"/>
+  <text x="80"  y="319" text-anchor="middle" fill="#AFA9EC" font-size="10" font-weight="bold">Snyk</text>
+  <text x="80"  y="333" text-anchor="middle" fill="#6b63b5" font-size="8">Dependency CVEs</text>
+
+  <!-- SonarQube -->
+  <rect x="152" y="302" width="116" height="40" rx="5" fill="#1a1030" stroke="#AFA9EC" stroke-width="1"/>
+  <text x="210" y="319" text-anchor="middle" fill="#AFA9EC" font-size="10" font-weight="bold">SonarQube</text>
+  <text x="210" y="333" text-anchor="middle" fill="#6b63b5" font-size="8">Code quality</text>
+
+  <!-- Trivy -->
+  <rect x="352" y="302" width="116" height="40" rx="5" fill="#1a1030" stroke="#AFA9EC" stroke-width="1"/>
+  <text x="410" y="319" text-anchor="middle" fill="#AFA9EC" font-size="10" font-weight="bold">Trivy</text>
+  <text x="410" y="333" text-anchor="middle" fill="#6b63b5" font-size="8">Image CVE scan</text>
+
+  <!-- Gitleaks -->
+  <rect x="482" y="302" width="116" height="40" rx="5" fill="#1a1030" stroke="#AFA9EC" stroke-width="1"/>
+  <text x="540" y="319" text-anchor="middle" fill="#AFA9EC" font-size="10" font-weight="bold">Gitleaks</text>
+  <text x="540" y="333" text-anchor="middle" fill="#6b63b5" font-size="8">Secret detection</text>
+
+  <!-- OWASP -->
+  <rect x="612" y="302" width="116" height="40" rx="5" fill="#1a1030" stroke="#AFA9EC" stroke-width="1"/>
+  <text x="670" y="319" text-anchor="middle" fill="#AFA9EC" font-size="10" font-weight="bold">OWASP ZAP</text>
+  <text x="670" y="333" text-anchor="middle" fill="#6b63b5" font-size="8">DAST scan</text>
+
+  <!-- Fan in → gate passed -->
+  <line x1="80"  y1="342" x2="80"  y2="366" stroke="#AFA9EC" stroke-width="0.8"/>
+  <line x1="210" y1="342" x2="210" y2="366" stroke="#AFA9EC" stroke-width="0.8"/>
+  <line x1="410" y1="342" x2="410" y2="366" stroke="#AFA9EC" stroke-width="0.8"/>
+  <line x1="540" y1="342" x2="540" y2="366" stroke="#AFA9EC" stroke-width="0.8"/>
+  <line x1="670" y1="342" x2="670" y2="366" stroke="#AFA9EC" stroke-width="0.8"/>
+  <line x1="80" y1="366" x2="670" y2="366" stroke="#AFA9EC" stroke-width="0.8"/>
+  <line x1="400" y1="366" x2="400" y2="370" stroke="#AFA9EC" stroke-width="1.2" marker-end="url(#ap)"/>
+  <text x="750" y="358" fill="#AFA9EC" font-size="7">all pass → proceed</text>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- ROW 4: DEPLOY -->
+  <!-- ══════════════════════════════════════════ -->
+  <rect x="10" y="370" width="880" height="64" rx="6" fill="#160a04" stroke="#F0997B" stroke-width="1" stroke-dasharray="6 3"/>
+  <text x="22" y="383" fill="#F0997B" font-size="8" font-weight="bold" letter-spacing="1">⑤ DEPLOY  —  gitops-driven, progressive promotion</text>
+
+  <!-- ArgoCD -->
+  <rect x="22"  y="386" width="120" height="40" rx="5" fill="#1f0d08" stroke="#F0997B" stroke-width="1.2"/>
+  <text x="82"  y="403" text-anchor="middle" fill="#F0997B" font-size="10" font-weight="bold">ArgoCD</text>
+  <text x="82"  y="417" text-anchor="middle" fill="#7a3010" font-size="8">GitOps sync</text>
+
+  <line x1="142" y1="406" x2="170" y2="406" stroke="#F0997B" stroke-width="1.2" marker-end="url(#ac)"/>
+
+  <!-- Helm -->
+  <rect x="170" y="386" width="100" height="40" rx="5" fill="#1f0d08" stroke="#F0997B" stroke-width="1"/>
+  <text x="220" y="403" text-anchor="middle" fill="#F0997B" font-size="10" font-weight="bold">Helm</text>
+  <text x="220" y="417" text-anchor="middle" fill="#7a3010" font-size="8">K8s templates</text>
+
+  <line x1="270" y1="406" x2="298" y2="406" stroke="#F0997B" stroke-width="1.2" marker-end="url(#ac)"/>
+
+  <!-- Dev env -->
+  <rect x="298" y="386" width="90" height="40" rx="5" fill="#1f0d08" stroke="#F0997B" stroke-width="1"/>
+  <text x="343" y="403" text-anchor="middle" fill="#F0997B" font-size="10" font-weight="bold">Dev</text>
+  <text x="343" y="417" text-anchor="middle" fill="#7a3010" font-size="8">Auto deploy</text>
+
+  <line x1="388" y1="406" x2="408" y2="406" stroke="#F0997B" stroke-width="1.2" marker-end="url(#ac)"/>
+  <text x="398" y="400" fill="#7a3010" font-size="7">smoke</text>
+
+  <!-- Staging env -->
+  <rect x="408" y="386" width="90" height="40" rx="5" fill="#1f0d08" stroke="#F0997B" stroke-width="1.2"/>
+  <text x="453" y="403" text-anchor="middle" fill="#F0997B" font-size="10" font-weight="bold">Staging</text>
+  <text x="453" y="417" text-anchor="middle" fill="#7a3010" font-size="8">Integration tests</text>
+
+  <line x1="498" y1="406" x2="518" y2="406" stroke="#F0997B" stroke-width="1.2" marker-end="url(#ac)"/>
+  <text x="508" y="400" fill="#7a3010" font-size="7">approve</text>
+
+  <!-- Production EKS/AKS -->
+  <rect x="518" y="386" width="140" height="40" rx="5" fill="#1f0d08" stroke="#F0997B" stroke-width="1.8"/>
+  <text x="588" y="400" text-anchor="middle" fill="#F0997B" font-size="10" font-weight="bold">Production</text>
+  <text x="588" y="413" text-anchor="middle" fill="#F0997B" font-size="8">EKS / AKS</text>
+  <text x="588" y="424" text-anchor="middle" fill="#7a3010" font-size="7">Canary → Full rollout</text>
+
+  <line x1="658" y1="406" x2="686" y2="406" stroke="#F0997B" stroke-width="1.2" marker-end="url(#ac)"/>
+
+  <!-- CDN / Edge -->
+  <rect x="686" y="386" width="100" height="40" rx="5" fill="#1f0d08" stroke="#F0997B" stroke-width="1"/>
+  <text x="736" y="403" text-anchor="middle" fill="#F0997B" font-size="10" font-weight="bold">CDN / Edge</text>
+  <text x="736" y="417" text-anchor="middle" fill="#7a3010" font-size="8">CloudFront / WAF</text>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- ROW 5: MONITOR -->
+  <!-- ══════════════════════════════════════════ -->
+  <line x1="400" y1="434" x2="400" y2="454" stroke="#FAC775" stroke-width="1.2" marker-end="url(#aa)"/>
+
+  <rect x="10" y="454" width="880" height="64" rx="6" fill="#140f00" stroke="#FAC775" stroke-width="1" stroke-dasharray="6 3"/>
+  <text x="22" y="467" fill="#FAC775" font-size="8" font-weight="bold" letter-spacing="1">⑥ MONITOR  —  observe, alert, feed back</text>
+
+  <!-- Prometheus -->
+  <rect x="22"  y="470" width="120" height="40" rx="5" fill="#1f1500" stroke="#FAC775" stroke-width="1"/>
+  <text x="82"  y="487" text-anchor="middle" fill="#FAC775" font-size="10" font-weight="bold">Prometheus</text>
+  <text x="82"  y="501" text-anchor="middle" fill="#7a5500" font-size="8">Metrics + alerts</text>
+
+  <line x1="142" y1="490" x2="170" y2="490" stroke="#FAC775" stroke-width="1.2" marker-end="url(#aa)"/>
+
+  <!-- Grafana -->
+  <rect x="170" y="470" width="110" height="40" rx="5" fill="#1f1500" stroke="#FAC775" stroke-width="1"/>
+  <text x="225" y="487" text-anchor="middle" fill="#FAC775" font-size="10" font-weight="bold">Grafana</text>
+  <text x="225" y="501" text-anchor="middle" fill="#7a5500" font-size="8">Dashboards</text>
+
+  <line x1="280" y1="490" x2="308" y2="490" stroke="#FAC775" stroke-width="1.2" marker-end="url(#aa)"/>
+
+  <!-- ELK Stack -->
+  <rect x="308" y="470" width="110" height="40" rx="5" fill="#1f1500" stroke="#FAC775" stroke-width="1"/>
+  <text x="363" y="487" text-anchor="middle" fill="#FAC775" font-size="10" font-weight="bold">ELK Stack</text>
+  <text x="363" y="501" text-anchor="middle" fill="#7a5500" font-size="8">Log aggregation</text>
+
+  <line x1="418" y1="490" x2="446" y2="490" stroke="#FAC775" stroke-width="1.2" marker-end="url(#aa)"/>
+
+  <!-- AlertManager -->
+  <rect x="446" y="470" width="130" height="40" rx="5" fill="#1f1500" stroke="#FAC775" stroke-width="1.2"/>
+  <text x="511" y="487" text-anchor="middle" fill="#FAC775" font-size="10" font-weight="bold">AlertManager</text>
+  <text x="511" y="501" text-anchor="middle" fill="#7a5500" font-size="8">PagerDuty / Slack</text>
+
+  <line x1="576" y1="490" x2="604" y2="490" stroke="#FAC775" stroke-width="1.2" marker-end="url(#aa)"/>
+
+  <!-- Incident Response -->
+  <rect x="604" y="470" width="140" height="40" rx="5" fill="#1f1500" stroke="#FAC775" stroke-width="1"/>
+  <text x="674" y="487" text-anchor="middle" fill="#FAC775" font-size="10" font-weight="bold">Incident Response</text>
+  <text x="674" y="501" text-anchor="middle" fill="#7a5500" font-size="8">Runbooks → MTTR ↓</text>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- FEEDBACK LOOPS -->
+  <!-- ══════════════════════════════════════════ -->
+  <!-- Loop 1: AlertManager → ArgoCD (rollback) -->
+  <path d="M511 518 C511 540 82 540 82 434" fill="none" stroke="#FAC775" stroke-width="1" stroke-dasharray="5 3" marker-end="url(#aa)"/>
+  <text x="310" y="537" text-anchor="middle" fill="#7a5500" font-size="7">auto-rollback / re-deploy</text>
+
+  <!-- Loop 2: ArgoCD watches Git -->
+  <path d="M22 397 C4 397 4 162 22 162" fill="none" stroke="#F0997B" stroke-width="1" stroke-dasharray="5 3" marker-end="url(#ac)"/>
+  <text x="2" y="285" text-anchor="middle" fill="#7a3010" font-size="7" transform="rotate(-90,2,285)">GitOps watch</text>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- LEGEND -->
+  <!-- ══════════════════════════════════════════ -->
+  <rect x="10" y="526" width="880" height="24" rx="4" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="22" y="533" width="8" height="8" rx="1" fill="#0f2010" stroke="#639922" stroke-width="1"/>
+  <text x="34" y="542" fill="#639922" font-size="8">Infra</text>
+  <rect x="72" y="533" width="8" height="8" rx="1" fill="#0a1f10" stroke="#00d9a3" stroke-width="1"/>
+  <text x="84" y="542" fill="#00d9a3" font-size="8">Code</text>
+  <rect x="122" y="533" width="8" height="8" rx="1" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
+  <text x="134" y="542" fill="#378ADD" font-size="8">Build</text>
+  <rect x="172" y="533" width="8" height="8" rx="1" fill="#1a1030" stroke="#AFA9EC" stroke-width="1"/>
+  <text x="184" y="542" fill="#AFA9EC" font-size="8">Security</text>
+  <rect x="240" y="533" width="8" height="8" rx="1" fill="#1f0d08" stroke="#F0997B" stroke-width="1"/>
+  <text x="252" y="542" fill="#F0997B" font-size="8">Deploy</text>
+  <rect x="300" y="533" width="8" height="8" rx="1" fill="#1f1500" stroke="#FAC775" stroke-width="1"/>
+  <text x="312" y="542" fill="#FAC775" font-size="8">Monitor</text>
+  <line x1="366" y1="537" x2="390" y2="537" stroke="#888" stroke-width="1" stroke-dasharray="4 2"/>
+  <text x="396" y="542" fill="#555" font-size="8">Feedback / alt path</text>
+  <text x="760" y="542" fill="#30363d" font-size="8">trivediayush · DevOps Pipeline 2025</text>
 </svg>
