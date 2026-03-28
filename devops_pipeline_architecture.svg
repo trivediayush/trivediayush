@@ -1,243 +1,259 @@
-<svg width="100%" viewBox="0 0 680 820" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-  </marker>
-<mask id="imagine-text-gaps-8rp0m5" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="680" height="820" fill="white"/><rect x="0.3209686279296875" y="95.91097259521484" width="43.35805892944336" height="19.111291885375977" fill="black" rx="2"/><rect x="0.14978599548339844" y="210.9109649658203" width="44.60865783691406" height="19.111291885375977" fill="black" rx="2"/><rect x="-6.874603509902954" y="340.9109802246094" width="56.9936408996582" height="19.111291885375977" fill="black" rx="2"/><rect x="-5.587782621383667" y="475.91094970703125" width="56.079437255859375" height="19.111291885375977" fill="black" rx="2"/><rect x="-11.01249885559082" y="610.9110107421875" width="66.90195083618164" height="19.111291885375977" fill="black" rx="2"/><rect x="-0.44640183448791504" y="745.9109497070312" width="45.86848831176758" height="19.111291885375977" fill="black" rx="2"/><rect x="61.627716064453125" y="77.3110122680664" width="77.02721405029297" height="21.37798500061035" fill="black" rx="2"/><rect x="58.50510787963867" y="97.44435119628906" width="84.01290130615234" height="19.111291885375977" fill="black" rx="2"/><rect x="152.06927490234375" y="71.91097259521484" width="35.8614444732666" height="19.111291885375977" fill="black" rx="2"/><rect x="203.1630401611328" y="77.3110122680664" width="94.52528381347656" height="21.37798500061035" fill="black" rx="2"/><rect x="197.6497802734375" y="97.44435119628906" width="105.39798736572266" height="19.111291885375977" fill="black" rx="2"/><rect x="306.2785949707031" y="71.91097259521484" width="47.1359977722168" height="19.111291885375977" fill="black" rx="2"/><rect x="364.7691955566406" y="77.3110122680664" width="110.74331665039062" height="21.37798500061035" fill="black" rx="2"/><rect x="356.2690734863281" y="97.44435119628906" width="126.82207489013672" height="19.111291885375977" fill="black" rx="2"/><rect x="73.35134887695312" y="171.31101989746094" width="73.5848159790039" height="21.37798500061035" fill="black" rx="2"/><rect x="70.96659851074219" y="191.44436645507812" width="79.08757781982422" height="19.111291885375977" fill="black" rx="2"/><rect x="228.92449951171875" y="171.31101989746094" width="92.45430755615234" height="21.37798500061035" fill="black" rx="2"/><rect x="215.80247497558594" y="191.44436645507812" width="118.99342346191406" height="19.111291885375977" fill="black" rx="2"/><rect x="379.96453857421875" y="171.31101989746094" width="131.00516510009766" height="21.37798500061035" fill="black" rx="2"/><rect x="388.8188171386719" y="191.44436645507812" width="113.23353576660156" height="19.111291885375977" fill="black" rx="2"/><rect x="66.61968231201172" y="287.3110046386719" width="84.13544464111328" height="21.37798500061035" fill="black" rx="2"/><rect x="59.9494514465332" y="307.4443664550781" width="97.34551239013672" height="19.111291885375977" fill="black" rx="2"/><rect x="230.86402893066406" y="287.3110046386719" width="42.457115173339844" height="21.37798500061035" fill="black" rx="2"/><rect x="194.88616943359375" y="307.4443664550781" width="114.86638641357422" height="19.111291885375977" fill="black" rx="2"/><rect x="364.9761962890625" y="287.3110046386719" width="42.22618865966797" height="21.37798500061035" fill="black" rx="2"/><rect x="337.23870849609375" y="307.4443664550781" width="97.52259826660156" height="19.111291885375977" fill="black" rx="2"/><rect x="488.2566223144531" y="287.3110046386719" width="63.768680572509766" height="21.37798500061035" fill="black" rx="2"/><rect x="467.998046875" y="307.4443664550781" width="103.24835968017578" height="19.111291885375977" fill="black" rx="2"/><rect x="73.6875228881836" y="403.3110046386719" width="61.99826431274414" height="21.37798500061035" fill="black" rx="2"/><rect x="65.97840118408203" y="423.4443664550781" width="78.21737670898438" height="19.111291885375977" fill="black" rx="2"/><rect x="224.7223663330078" y="403.3110046386719" width="42.555274963378906" height="21.37798500061035" fill="black" rx="2"/><rect x="199.59983825683594" y="423.4443664550781" width="93.50293731689453" height="19.111291885375977" fill="black" rx="2"/><rect x="349.03851318359375" y="403.3110046386719" width="74.59915924072266" height="21.37798500061035" fill="black" rx="2"/><rect x="350.5437316894531" y="423.4443664550781" width="71.36698150634766" height="19.111291885375977" fill="black" rx="2"/><rect x="504.9062194824219" y="397.31097412109375" width="73.19991302490234" height="21.37798500061035" fill="black" rx="2"/><rect x="502.3739013671875" y="414.4443664550781" width="77.85107421875" height="19.111291885375977" fill="black" rx="2"/><rect x="499.5582275390625" y="430.4443664550781" width="82.88352966308594" height="19.111291885375977" fill="black" rx="2"/><rect x="65.48875427246094" y="519.31103515625" width="89.3060073852539" height="21.37798500061035" fill="black" rx="2"/><rect x="58.73590850830078" y="539.4443969726562" width="103.22760772705078" height="19.111291885375977" fill="black" rx="2"/><rect x="234.30142211914062" y="519.31103515625" width="61.949520111083984" height="21.37798500061035" fill="black" rx="2"/><rect x="226.98779296875" y="539.4443969726562" width="76.6575927734375" height="19.111291885375977" fill="black" rx="2"/><rect x="377.9027404785156" y="519.31103515625" width="75.1448974609375" height="21.37798500061035" fill="black" rx="2"/><rect x="366.144287109375" y="539.4443969726562" width="97.71148681640625" height="19.111291885375977" fill="black" rx="2"/><rect x="529.1739501953125" y="519.31103515625" width="63.845462799072266" height="21.37798500061035" fill="black" rx="2"/><rect x="507.7407531738281" y="539.4443969726562" width="107.27705383300781" height="19.111291885375977" fill="black" rx="2"/><rect x="633.3363037109375" y="463.9109802246094" width="42.20336151123047" height="19.111291885375977" fill="black" rx="2"/><rect x="637.7752075195312" y="476.9109802246094" width="32.55732345581055" height="19.111291885375977" fill="black" rx="2"/><rect x="72.8200912475586" y="635.31103515625" width="73.60425567626953" height="21.37798500061035" fill="black" rx="2"/><rect x="60.677947998046875" y="655.4443359375" width="99.35211944580078" height="19.111291885375977" fill="black" rx="2"/><rect x="235.0865020751953" y="635.31103515625" width="59.1998291015625" height="21.37798500061035" fill="black" rx="2"/><rect x="224.3256072998047" y="655.4443359375" width="82.3631362915039" height="19.111291885375977" fill="black" rx="2"/><rect x="387.7023010253906" y="635.31103515625" width="84.89105224609375" height="21.37798500061035" fill="black" rx="2"/><rect x="376.0618896484375" y="655.4443359375" width="107.1206283569336" height="19.111291885375977" fill="black" rx="2"/><rect x="258" y="303.91094970703125" width="49.613304138183594" height="19.111291885375977" fill="black" rx="2"/><rect x="257.2444152832031" y="315.91094970703125" width="43.31083679199219" height="19.111291885375977" fill="black" rx="2"/><rect x="212.8364715576172" y="24.311006546020508" width="234.72134399414062" height="21.37798500061035" fill="black" rx="2"/><rect x="62" y="736.9109497070312" width="39.12041473388672" height="19.111291885375977" fill="black" rx="2"/><rect x="126" y="736.9109497070312" width="36.56475830078125" height="19.111291885375977" fill="black" rx="2"/><rect x="189.24444580078125" y="736.9109497070312" width="56.90763473510742" height="19.111291885375977" fill="black" rx="2"/><rect x="268" y="736.9109497070312" width="48.557132720947266" height="19.111291885375977" fill="black" rx="2"/><rect x="334" y="736.9109497070312" width="53.62140655517578" height="19.111291885375977" fill="black" rx="2"/><rect x="410" y="736.9109497070312" width="34.63332748413086" height="19.111291885375977" fill="black" rx="2"/><rect x="492" y="736.9109497070312" width="64.0830078125" height="19.111291885375977" fill="black" rx="2"/><rect x="255.49044799804688" y="785.9109497070312" width="148.863037109375" height="19.111291885375977" fill="black" rx="2"/></mask></defs>
+<svg width="900" height="820" viewBox="0 0 900 820" xmlns="http://www.w3.org/2000/svg" font-family="monospace, sans-serif">
 
-<!-- STAGE LABELS (left spine) -->
-<text x="22" y="110" text-anchor="middle" transform="rotate(-90,22,110)" fill="#888780" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">CODE</text>
-<text x="22" y="225" text-anchor="middle" transform="rotate(-90,22,225)" fill="#888780" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">BUILD</text>
-<text x="22" y="355" text-anchor="middle" transform="rotate(-90,22,355)" fill="#888780" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">SECURE</text>
-<text x="22" y="490" text-anchor="middle" transform="rotate(-90,22,490)" fill="#888780" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">DEPLOY</text>
-<text x="22" y="625" text-anchor="middle" transform="rotate(-90,22,625)" fill="#888780" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">MONITOR</text>
-<text x="22" y="760" text-anchor="middle" transform="rotate(-90,22,760)" fill="#888780" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">INFRA</text>
+  <!-- Background -->
+  <rect width="900" height="820" fill="#0d1117" rx="12"/>
 
-<!-- Spine line -->
-<line x1="38" y1="60" x2="38" y2="800" stroke="var(--color-border-tertiary)" stroke-width="0.5" stroke-dasharray="3 4" mask="url(#imagine-text-gaps-8rp0m5)" style="fill:rgb(0, 0, 0);stroke:rgba(222, 220, 209, 0.15);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-dasharray:3px, 4px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Title bar -->
+  <rect x="30" y="18" width="840" height="38" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="41" text-anchor="middle" fill="#00d9a3" font-size="15" font-weight="bold" letter-spacing="2">⚙  DEVOPS PIPELINE · END-TO-END FLOW</text>
 
-<!-- ═══ ROW 1: CODE ═══ -->
-<!-- Developer -->
-<g onclick="sendPrompt('How does a developer push code in a DevOps workflow?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="50" y="68" width="100" height="52" rx="8" stroke-width="0.5" style="fill:rgb(68, 68, 65);stroke:rgb(180, 178, 169);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="100" y="88" text-anchor="middle" dominant-baseline="central" style="fill:rgb(211, 209, 199);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Developer</text>
-  <text x="100" y="107" text-anchor="middle" dominant-baseline="central" style="fill:rgb(180, 178, 169);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Local commit</text>
-</g>
-<!-- Git push arrow -->
-<line x1="150" y1="94" x2="190" y2="94" stroke="#5DCAA5" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<text x="170" y="86" text-anchor="middle" fill="#1D9E75" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">push</text>
+  <!-- ══ STAGE LABELS (left spine) ══ -->
+  <line x1="60" y1="70" x2="60" y2="790" stroke="#21262d" stroke-width="1" stroke-dasharray="4 4"/>
 
-<!-- GitHub Repo -->
-<g onclick="sendPrompt('What happens when code is pushed to a GitHub repository in DevOps?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="190" y="68" width="120" height="52" rx="8" stroke-width="0.5" style="fill:rgb(8, 80, 65);stroke:rgb(93, 202, 165);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="250" y="88" text-anchor="middle" dominant-baseline="central" style="fill:rgb(159, 225, 203);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">GitHub Repo</text>
-  <text x="250" y="107" text-anchor="middle" dominant-baseline="central" style="fill:rgb(93, 202, 165);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">PR + code review</text>
-</g>
-<!-- trigger arrow -->
-<line x1="310" y1="94" x2="350" y2="94" stroke="#5DCAA5" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<text x="330" y="86" text-anchor="middle" fill="#1D9E75" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">trigger</text>
+  <text x="48" y="145" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,145)">CODE</text>
+  <text x="48" y="255" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,255)">BUILD</text>
+  <text x="48" y="375" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,375)">SECURE</text>
+  <text x="48" y="495" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,495)">DEPLOY</text>
+  <text x="48" y="615" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,615)">MONITOR</text>
+  <text x="48" y="735" text-anchor="middle" fill="#444d56" font-size="10" font-weight="bold" transform="rotate(-90,48,735)">INFRA</text>
 
-<!-- CI Trigger -->
-<g onclick="sendPrompt('How do GitHub Actions trigger a CI pipeline?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="350" y="68" width="140" height="52" rx="8" stroke-width="0.5" style="fill:rgb(8, 80, 65);stroke:rgb(93, 202, 165);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="420" y="88" text-anchor="middle" dominant-baseline="central" style="fill:rgb(159, 225, 203);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">GitHub Actions</text>
-  <text x="420" y="107" text-anchor="middle" dominant-baseline="central" style="fill:rgb(93, 202, 165);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Webhook event fired</text>
-</g>
+  <!-- ══ ROW 1: CODE ══ -->
+  <!-- Developer -->
+  <rect x="78" y="108" width="140" height="54" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="148" y="129" text-anchor="middle" fill="#c9d1d9" font-size="12" font-weight="bold">Developer</text>
+  <text x="148" y="148" text-anchor="middle" fill="#6e7681" font-size="10">Local commit</text>
 
-<!-- ═══ ARROW DOWN: CODE → BUILD ═══ -->
-<line x1="420" y1="120" x2="420" y2="162" stroke="#5DCAA5" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- arrow + label -->
+  <line x1="218" y1="135" x2="268" y2="135" stroke="#00d9a3" stroke-width="1.5" marker-end="url(#arr-green)"/>
+  <text x="243" y="127" text-anchor="middle" fill="#00d9a3" font-size="9">git push</text>
 
-<!-- ═══ ROW 2: BUILD ═══ -->
-<!-- Unit Tests -->
-<g onclick="sendPrompt('What are unit tests in a CI pipeline?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="50" y="162" width="120" height="52" rx="8" stroke-width="0.5" style="fill:rgb(12, 68, 124);stroke:rgb(133, 183, 235);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="110" y="182" text-anchor="middle" dominant-baseline="central" style="fill:rgb(181, 212, 244);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Unit tests</text>
-  <text x="110" y="201" text-anchor="middle" dominant-baseline="central" style="fill:rgb(133, 183, 235);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">pytest / Jest</text>
-</g>
-<line x1="170" y1="188" x2="210" y2="188" stroke="#378ADD" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- GitHub Repo -->
+  <rect x="268" y="108" width="160" height="54" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="348" y="129" text-anchor="middle" fill="#c9d1d9" font-size="12" font-weight="bold">GitHub Repo</text>
+  <text x="348" y="148" text-anchor="middle" fill="#6e7681" font-size="10">PR + code review</text>
 
-<!-- Docker Build -->
-<g onclick="sendPrompt('How does Docker build a container image in a CI pipeline?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="210" y="162" width="130" height="52" rx="8" stroke-width="0.5" style="fill:rgb(12, 68, 124);stroke:rgb(133, 183, 235);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="275" y="182" text-anchor="middle" dominant-baseline="central" style="fill:rgb(181, 212, 244);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Docker build</text>
-  <text x="275" y="201" text-anchor="middle" dominant-baseline="central" style="fill:rgb(133, 183, 235);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Image + layer cache</text>
-</g>
-<line x1="340" y1="188" x2="380" y2="188" stroke="#378ADD" marker-end="url(#arrow)" mask="url(#imagine-text-gaps-8rp0m5)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- arrow -->
+  <line x1="428" y1="135" x2="478" y2="135" stroke="#00d9a3" stroke-width="1.5" marker-end="url(#arr-green)"/>
+  <text x="453" y="127" text-anchor="middle" fill="#00d9a3" font-size="9">trigger</text>
 
-<!-- Push to Registry -->
-<g onclick="sendPrompt('What is a container registry and why push images to it?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="380" y="162" width="130" height="52" rx="8" stroke-width="0.5" style="fill:rgb(12, 68, 124);stroke:rgb(133, 183, 235);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="445" y="182" text-anchor="middle" dominant-baseline="central" style="fill:rgb(181, 212, 244);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Container registry</text>
-  <text x="445" y="201" text-anchor="middle" dominant-baseline="central" style="fill:rgb(133, 183, 235);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">ECR / ACR / GHCR</text>
-</g>
+  <!-- GitHub Actions -->
+  <rect x="478" y="108" width="175" height="54" rx="7" fill="#0d2137" stroke="#378ADD" stroke-width="1.2"/>
+  <text x="565" y="129" text-anchor="middle" fill="#85B7EB" font-size="12" font-weight="bold">GitHub Actions</text>
+  <text x="565" y="148" text-anchor="middle" fill="#4d8cc4" font-size="10">Webhook event fired</text>
 
-<!-- build → secure arrow -->
-<line x1="445" y1="214" x2="445" y2="278" stroke="#378ADD" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<!-- also route left side: tests feed into security -->
-<line x1="110" y1="214" x2="110" y2="278" stroke="#378ADD" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Jenkins (alternative) -->
+  <rect x="668" y="108" width="130" height="54" rx="7" fill="#1a1208" stroke="#D24939" stroke-width="1"/>
+  <text x="733" y="129" text-anchor="middle" fill="#e07060" font-size="12" font-weight="bold">Jenkins</text>
+  <text x="733" y="148" text-anchor="middle" fill="#7a3828" font-size="10">Alt CI runner</text>
 
-<!-- ═══ ROW 3: SECURITY ═══ -->
-<!-- SonarQube -->
-<g onclick="sendPrompt('What does SonarQube check in a DevSecOps pipeline?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="50" y="278" width="118" height="52" rx="8" stroke-width="0.5" style="fill:rgb(60, 52, 137);stroke:rgb(175, 169, 236);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="109" y="298" text-anchor="middle" dominant-baseline="central" style="fill:rgb(206, 203, 246);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">SonarQube</text>
-  <text x="109" y="317" text-anchor="middle" dominant-baseline="central" style="fill:rgb(175, 169, 236);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">SAST code scan</text>
-</g>
-<line x1="168" y1="304" x2="202" y2="304" stroke="#7F77DD" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- down arrow code→build -->
+  <line x1="565" y1="162" x2="565" y2="210" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arr-blue)"/>
 
-<!-- Snyk -->
-<g onclick="sendPrompt('What does Snyk scan for in DevSecOps?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="202" y="278" width="100" height="52" rx="8" stroke-width="0.5" style="fill:rgb(60, 52, 137);stroke:rgb(175, 169, 236);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="252" y="298" text-anchor="middle" dominant-baseline="central" style="fill:rgb(206, 203, 246);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Snyk</text>
-  <text x="252" y="317" text-anchor="middle" dominant-baseline="central" style="fill:rgb(175, 169, 236);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Dependency CVEs</text>
-</g>
-<line x1="302" y1="304" x2="336" y2="304" stroke="#7F77DD" marker-end="url(#arrow)" mask="url(#imagine-text-gaps-8rp0m5)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- ══ ROW 2: BUILD ══ -->
+  <!-- subgraph bg -->
+  <rect x="78" y="210" width="720" height="74" rx="8" fill="#0a1520" stroke="#378ADD" stroke-width="1" stroke-dasharray="5 3"/>
+  <text x="90" y="225" fill="#378ADD" font-size="9" font-weight="bold">BUILD</text>
 
-<!-- Trivy -->
-<g onclick="sendPrompt('What does Trivy scan in a container image?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="336" y="278" width="100" height="52" rx="8" stroke-width="0.5" style="fill:rgb(60, 52, 137);stroke:rgb(175, 169, 236);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="386" y="298" text-anchor="middle" dominant-baseline="central" style="fill:rgb(206, 203, 246);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Trivy</text>
-  <text x="386" y="317" text-anchor="middle" dominant-baseline="central" style="fill:rgb(175, 169, 236);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Image vuln scan</text>
-</g>
-<line x1="436" y1="304" x2="470" y2="304" stroke="#7F77DD" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Unit Tests -->
+  <rect x="88" y="228" width="155" height="46" rx="6" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
+  <text x="165" y="247" text-anchor="middle" fill="#85B7EB" font-size="11" font-weight="bold">Unit Tests</text>
+  <text x="165" y="263" text-anchor="middle" fill="#4d8cc4" font-size="10">pytest / Jest</text>
 
-<!-- Gitleaks -->
-<g onclick="sendPrompt('What is Gitleaks and why use it in CI?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="470" y="278" width="100" height="52" rx="8" stroke-width="0.5" style="fill:rgb(60, 52, 137);stroke:rgb(175, 169, 236);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="520" y="298" text-anchor="middle" dominant-baseline="central" style="fill:rgb(206, 203, 246);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Gitleaks</text>
-  <text x="520" y="317" text-anchor="middle" dominant-baseline="central" style="fill:rgb(175, 169, 236);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Secret detection</text>
-</g>
+  <!-- arrow -->
+  <line x1="243" y1="251" x2="278" y2="251" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arr-blue)"/>
 
-<!-- security → deploy -->
-<line x1="520" y1="330" x2="520" y2="394" stroke="#7F77DD" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Docker Build -->
+  <rect x="278" y="228" width="165" height="46" rx="6" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
+  <text x="360" y="247" text-anchor="middle" fill="#85B7EB" font-size="11" font-weight="bold">Docker Build</text>
+  <text x="360" y="263" text-anchor="middle" fill="#4d8cc4" font-size="10">Image + layer cache</text>
 
-<!-- ═══ ROW 4: DEPLOY ═══ -->
-<!-- ArgoCD -->
-<g onclick="sendPrompt('How does ArgoCD implement GitOps continuous delivery?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="50" y="394" width="110" height="52" rx="8" stroke-width="0.5" style="fill:rgb(113, 43, 19);stroke:rgb(240, 153, 123);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="105" y="414" text-anchor="middle" dominant-baseline="central" style="fill:rgb(245, 196, 179);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">ArgoCD</text>
-  <text x="105" y="433" text-anchor="middle" dominant-baseline="central" style="fill:rgb(240, 153, 123);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">GitOps sync</text>
-</g>
-<line x1="160" y1="420" x2="196" y2="420" stroke="#D85A30" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- arrow -->
+  <line x1="443" y1="251" x2="478" y2="251" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arr-blue)"/>
 
-<!-- Helm -->
-<g onclick="sendPrompt('What does Helm do when deploying to Kubernetes?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="196" y="394" width="100" height="52" rx="8" stroke-width="0.5" style="fill:rgb(113, 43, 19);stroke:rgb(240, 153, 123);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="246" y="414" text-anchor="middle" dominant-baseline="central" style="fill:rgb(245, 196, 179);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Helm</text>
-  <text x="246" y="433" text-anchor="middle" dominant-baseline="central" style="fill:rgb(240, 153, 123);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">K8s templating</text>
-</g>
-<line x1="296" y1="420" x2="332" y2="420" stroke="#D85A30" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Container Registry -->
+  <rect x="478" y="228" width="175" height="46" rx="6" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
+  <text x="565" y="247" text-anchor="middle" fill="#85B7EB" font-size="11" font-weight="bold">Container Registry</text>
+  <text x="565" y="263" text-anchor="middle" fill="#4d8cc4" font-size="10">ECR / ACR / GHCR</text>
 
-<!-- EKS / AKS -->
-<g onclick="sendPrompt('What is the difference between EKS and AKS for Kubernetes deployment?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="332" y="394" width="108" height="52" rx="8" stroke-width="0.5" style="fill:rgb(113, 43, 19);stroke:rgb(240, 153, 123);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="386" y="414" text-anchor="middle" dominant-baseline="central" style="fill:rgb(245, 196, 179);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">EKS / AKS</text>
-  <text x="386" y="433" text-anchor="middle" dominant-baseline="central" style="fill:rgb(240, 153, 123);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">K8s cluster</text>
-</g>
-<line x1="440" y1="420" x2="476" y2="420" stroke="#D85A30" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- arrow -->
+  <line x1="653" y1="251" x2="688" y2="251" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arr-blue)"/>
 
-<!-- Multi-env -->
-<g onclick="sendPrompt('How do you manage dev staging and production environments in Kubernetes?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="476" y="394" width="130" height="52" rx="8" stroke-width="0.5" style="fill:rgb(113, 43, 19);stroke:rgb(240, 153, 123);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="541" y="408" text-anchor="middle" dominant-baseline="central" style="fill:rgb(245, 196, 179);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Multi-env</text>
-  <text x="541" y="424" text-anchor="middle" dominant-baseline="central" style="fill:rgb(240, 153, 123);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Dev → Stage</text>
-  <text x="541" y="440" text-anchor="middle" dominant-baseline="central" style="fill:rgb(240, 153, 123);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">→ Production</text>
-</g>
+  <!-- Artifact Store -->
+  <rect x="688" y="228" width="102" height="46" rx="6" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
+  <text x="739" y="247" text-anchor="middle" fill="#85B7EB" font-size="11" font-weight="bold">Artifacts</text>
+  <text x="739" y="263" text-anchor="middle" fill="#4d8cc4" font-size="10">Versioned tags</text>
 
-<!-- deploy → monitor -->
-<line x1="541" y1="446" x2="541" y2="510" stroke="#D85A30" marker-end="url(#arrow)" mask="url(#imagine-text-gaps-8rp0m5)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- down arrow build→security -->
+  <line x1="565" y1="284" x2="565" y2="330" stroke="#7F77DD" stroke-width="1.5" marker-end="url(#arr-purple)"/>
 
-<!-- ═══ ROW 5: MONITORING ═══ -->
-<!-- Prometheus -->
-<g onclick="sendPrompt('How does Prometheus collect metrics from Kubernetes?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="50" y="510" width="120" height="52" rx="8" stroke-width="0.5" style="fill:rgb(99, 56, 6);stroke:rgb(239, 159, 39);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="110" y="530" text-anchor="middle" dominant-baseline="central" style="fill:rgb(250, 199, 117);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Prometheus</text>
-  <text x="110" y="549" text-anchor="middle" dominant-baseline="central" style="fill:rgb(239, 159, 39);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Metrics scraping</text>
-</g>
-<line x1="170" y1="536" x2="210" y2="536" stroke="#EF9F27" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- ══ ROW 3: SECURITY ══ -->
+  <rect x="78" y="330" width="720" height="74" rx="8" fill="#100a1e" stroke="#7F77DD" stroke-width="1" stroke-dasharray="5 3"/>
+  <text x="90" y="345" fill="#7F77DD" font-size="9" font-weight="bold">SHIFT-LEFT SECURITY</text>
 
-<!-- Grafana -->
-<g onclick="sendPrompt('What dashboards does Grafana provide for DevOps monitoring?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="210" y="510" width="110" height="52" rx="8" stroke-width="0.5" style="fill:rgb(99, 56, 6);stroke:rgb(239, 159, 39);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="265" y="530" text-anchor="middle" dominant-baseline="central" style="fill:rgb(250, 199, 117);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Grafana</text>
-  <text x="265" y="549" text-anchor="middle" dominant-baseline="central" style="fill:rgb(239, 159, 39);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Dashboards</text>
-</g>
-<line x1="320" y1="536" x2="360" y2="536" stroke="#EF9F27" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- SonarQube -->
+  <rect x="88" y="348" width="152" height="46" rx="6" fill="#1a1030" stroke="#7F77DD" stroke-width="1"/>
+  <text x="164" y="367" text-anchor="middle" fill="#AFA9EC" font-size="11" font-weight="bold">SonarQube</text>
+  <text x="164" y="383" text-anchor="middle" fill="#6b63b5" font-size="10">SAST code scan</text>
 
-<!-- ELK Stack -->
-<g onclick="sendPrompt('How does the ELK stack work for log aggregation?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="360" y="510" width="110" height="52" rx="8" stroke-width="0.5" style="fill:rgb(99, 56, 6);stroke:rgb(239, 159, 39);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="415" y="530" text-anchor="middle" dominant-baseline="central" style="fill:rgb(250, 199, 117);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">ELK stack</text>
-  <text x="415" y="549" text-anchor="middle" dominant-baseline="central" style="fill:rgb(239, 159, 39);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Log aggregation</text>
-</g>
-<line x1="470" y1="536" x2="506" y2="536" stroke="#EF9F27" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="240" y1="371" x2="268" y2="371" stroke="#7F77DD" stroke-width="1.5" marker-end="url(#arr-purple)"/>
 
-<!-- PagerDuty / Alert -->
-<g onclick="sendPrompt('How do alerts get triggered when Prometheus detects an anomaly?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="506" y="510" width="110" height="52" rx="8" stroke-width="0.5" style="fill:rgb(99, 56, 6);stroke:rgb(239, 159, 39);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="561" y="530" text-anchor="middle" dominant-baseline="central" style="fill:rgb(250, 199, 117);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Alerting</text>
-  <text x="561" y="549" text-anchor="middle" dominant-baseline="central" style="fill:rgb(239, 159, 39);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">PagerDuty / Slack</text>
-</g>
+  <!-- Snyk -->
+  <rect x="268" y="348" width="130" height="46" rx="6" fill="#1a1030" stroke="#7F77DD" stroke-width="1"/>
+  <text x="333" y="367" text-anchor="middle" fill="#AFA9EC" font-size="11" font-weight="bold">Snyk</text>
+  <text x="333" y="383" text-anchor="middle" fill="#6b63b5" font-size="10">Dependency CVEs</text>
 
-<!-- monitor → infra -->
-<line x1="561" y1="562" x2="561" y2="626" stroke="#EF9F27" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<!-- feedback loop: alert triggers incident response (back up) -->
-<path d="M616 536 C648 536 648 420 616 420" fill="none" stroke="#EF9F27" stroke-width="0.8" stroke-dasharray="4 3" opacity="0.5" marker-end="url(#arrow)" mask="url(#imagine-text-gaps-8rp0m5)" style="fill:none;stroke:rgb(239, 159, 39);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-dasharray:4px, 3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<text x="654" y="478" text-anchor="middle" fill="#BA7517" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">MTTR</text>
-<text x="654" y="491" text-anchor="middle" fill="#BA7517" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">loop</text>
+  <line x1="398" y1="371" x2="428" y2="371" stroke="#7F77DD" stroke-width="1.5" marker-end="url(#arr-purple)"/>
 
-<!-- ═══ ROW 6: INFRA ═══ -->
-<!-- Terraform -->
-<g onclick="sendPrompt('How does Terraform manage cloud infrastructure as code?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="50" y="626" width="120" height="52" rx="8" stroke-width="0.5" style="fill:rgb(39, 80, 10);stroke:rgb(151, 196, 89);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="110" y="646" text-anchor="middle" dominant-baseline="central" style="fill:rgb(192, 221, 151);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Terraform</text>
-  <text x="110" y="665" text-anchor="middle" dominant-baseline="central" style="fill:rgb(151, 196, 89);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">IaC provisioning</text>
-</g>
-<line x1="170" y1="652" x2="210" y2="652" stroke="#639922" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Trivy -->
+  <rect x="428" y="348" width="130" height="46" rx="6" fill="#1a1030" stroke="#7F77DD" stroke-width="1"/>
+  <text x="493" y="367" text-anchor="middle" fill="#AFA9EC" font-size="11" font-weight="bold">Trivy</text>
+  <text x="493" y="383" text-anchor="middle" fill="#6b63b5" font-size="10">Image vuln scan</text>
 
-<!-- Ansible -->
-<g onclick="sendPrompt('How does Ansible configure servers in a DevOps workflow?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="210" y="626" width="110" height="52" rx="8" stroke-width="0.5" style="fill:rgb(39, 80, 10);stroke:rgb(151, 196, 89);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="265" y="646" text-anchor="middle" dominant-baseline="central" style="fill:rgb(192, 221, 151);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Ansible</text>
-  <text x="265" y="665" text-anchor="middle" dominant-baseline="central" style="fill:rgb(151, 196, 89);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Config mgmt</text>
-</g>
-<line x1="320" y1="652" x2="360" y2="652" stroke="#639922" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156, 154, 146);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="558" y1="371" x2="588" y2="371" stroke="#7F77DD" stroke-width="1.5" marker-end="url(#arr-purple)"/>
 
-<!-- OCI / AWS / Azure -->
-<g onclick="sendPrompt('How do multi-cloud strategies work across AWS Azure and OCI?')" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="360" y="626" width="140" height="52" rx="8" stroke-width="0.5" style="fill:rgb(39, 80, 10);stroke:rgb(151, 196, 89);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="430" y="646" text-anchor="middle" dominant-baseline="central" style="fill:rgb(192, 221, 151);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Multi-cloud</text>
-  <text x="430" y="665" text-anchor="middle" dominant-baseline="central" style="fill:rgb(151, 196, 89);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">AWS · Azure · OCI</text>
-</g>
+  <!-- Gitleaks -->
+  <rect x="588" y="348" width="130" height="46" rx="6" fill="#1a1030" stroke="#7F77DD" stroke-width="1"/>
+  <text x="653" y="367" text-anchor="middle" fill="#AFA9EC" font-size="11" font-weight="bold">Gitleaks</text>
+  <text x="653" y="383" text-anchor="middle" fill="#6b63b5" font-size="10">Secret detection</text>
 
-<!-- Feedback arrow: infra loops back to code (drift detection) -->
-<path d="M50 652 C28 652 28 94 50 94" fill="none" stroke="#639922" stroke-width="0.8" stroke-dasharray="4 3" opacity="0.5" marker-end="url(#arrow)" mask="url(#imagine-text-gaps-8rp0m5)" style="fill:none;stroke:rgb(99, 153, 34);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-dasharray:4px, 3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- down arrow security→deploy -->
+  <line x1="565" y1="404" x2="565" y2="450" stroke="#D85A30" stroke-width="1.5" marker-end="url(#arr-coral)"/>
 
-<!-- GitOps feedback: argocd watches git -->
-<path d="M250 420 C250 370 250 240 250 214" fill="none" stroke="#D85A30" stroke-width="0.8" stroke-dasharray="4 3" opacity="0.4" marker-end="url(#arrow)" mask="url(#imagine-text-gaps-8rp0m5)" style="fill:none;stroke:rgb(216, 90, 48);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-dasharray:4px, 3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<text x="262" y="318" fill="#993C1D" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">GitOps</text>
-<text x="262" y="330" fill="#993C1D" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">watch</text>
+  <!-- ══ ROW 4: DEPLOY ══ -->
+  <rect x="78" y="450" width="720" height="74" rx="8" fill="#160a04" stroke="#D85A30" stroke-width="1" stroke-dasharray="5 3"/>
+  <text x="90" y="465" fill="#D85A30" font-size="9" font-weight="bold">DEPLOY</text>
 
-<!-- ═══ TITLE BAR ═══ -->
-<rect x="50" y="10" width="560" height="40" rx="8" fill="none" stroke="var(--color-border-tertiary)" stroke-width="0.5" style="fill:none;stroke:rgba(222, 220, 209, 0.15);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<text x="330" y="35" text-anchor="middle" dominant-baseline="central" style="fill:rgb(250, 249, 245);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">DevOps pipeline · end-to-end flow</text>
+  <!-- ArgoCD -->
+  <rect x="88" y="468" width="140" height="46" rx="6" fill="#1f0d08" stroke="#D85A30" stroke-width="1"/>
+  <text x="158" y="487" text-anchor="middle" fill="#F0997B" font-size="11" font-weight="bold">ArgoCD</text>
+  <text x="158" y="503" text-anchor="middle" fill="#8a3d1a" font-size="10">GitOps sync</text>
 
-<!-- legend -->
-<g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="50" y="742" width="10" height="10" rx="2" stroke-width="0" style="fill:rgb(8, 80, 65);stroke:rgb(93, 202, 165);color:rgb(255, 255, 255);stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="66" y="751" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Code</text>
-  <rect x="114" y="742" width="10" height="10" rx="2" stroke-width="0" style="fill:rgb(12, 68, 124);stroke:rgb(133, 183, 235);color:rgb(255, 255, 255);stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="130" y="751" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Build</text>
-  <rect x="178" y="742" width="10" height="10" rx="2" stroke-width="0" style="fill:rgb(60, 52, 137);stroke:rgb(175, 169, 236);color:rgb(255, 255, 255);stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="194" y="751" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Security</text>
-  <rect x="256" y="742" width="10" height="10" rx="2" stroke-width="0" style="fill:rgb(113, 43, 19);stroke:rgb(240, 153, 123);color:rgb(255, 255, 255);stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="272" y="751" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Deploy</text>
-  <rect x="322" y="742" width="10" height="10" rx="2" stroke-width="0" style="fill:rgb(99, 56, 6);stroke:rgb(239, 159, 39);color:rgb(255, 255, 255);stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="338" y="751" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Monitor</text>
-  <rect x="398" y="742" width="10" height="10" rx="2" stroke-width="0" style="fill:rgb(39, 80, 10);stroke:rgb(151, 196, 89);color:rgb(255, 255, 255);stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="414" y="751" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Infra</text>
-  <line x1="460" y1="748" x2="490" y2="748" stroke="var(--color-text-secondary)" stroke-dasharray="4 3" stroke-width="0.8" style="fill:rgb(0, 0, 0);stroke:rgb(194, 192, 182);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-dasharray:4px, 3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="496" y="751" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Feedback</text>
-</g>
-<text x="330" y="800" text-anchor="middle" fill="var(--color-text-tertiary)" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">click any node to explore</text>
+  <line x1="228" y1="491" x2="258" y2="491" stroke="#D85A30" stroke-width="1.5" marker-end="url(#arr-coral)"/>
+
+  <!-- Helm -->
+  <rect x="258" y="468" width="130" height="46" rx="6" fill="#1f0d08" stroke="#D85A30" stroke-width="1"/>
+  <text x="323" y="487" text-anchor="middle" fill="#F0997B" font-size="11" font-weight="bold">Helm</text>
+  <text x="323" y="503" text-anchor="middle" fill="#8a3d1a" font-size="10">K8s templating</text>
+
+  <line x1="388" y1="491" x2="418" y2="491" stroke="#D85A30" stroke-width="1.5" marker-end="url(#arr-coral)"/>
+
+  <!-- EKS/AKS -->
+  <rect x="418" y="468" width="140" height="46" rx="6" fill="#1f0d08" stroke="#D85A30" stroke-width="1"/>
+  <text x="488" y="487" text-anchor="middle" fill="#F0997B" font-size="11" font-weight="bold">EKS / AKS</text>
+  <text x="488" y="503" text-anchor="middle" fill="#8a3d1a" font-size="10">Kubernetes cluster</text>
+
+  <line x1="558" y1="491" x2="588" y2="491" stroke="#D85A30" stroke-width="1.5" marker-end="url(#arr-coral)"/>
+
+  <!-- Multi-env -->
+  <rect x="588" y="468" width="200" height="46" rx="6" fill="#1f0d08" stroke="#D85A30" stroke-width="1"/>
+  <text x="688" y="487" text-anchor="middle" fill="#F0997B" font-size="11" font-weight="bold">Multi-env</text>
+  <text x="688" y="503" text-anchor="middle" fill="#8a3d1a" font-size="10">Dev → Stage → Production</text>
+
+  <!-- down arrow deploy→monitor -->
+  <line x1="450" y1="524" x2="450" y2="570" stroke="#EF9F27" stroke-width="1.5" marker-end="url(#arr-amber)"/>
+
+  <!-- ══ ROW 5: MONITOR ══ -->
+  <rect x="78" y="570" width="720" height="74" rx="8" fill="#140f00" stroke="#EF9F27" stroke-width="1" stroke-dasharray="5 3"/>
+  <text x="90" y="585" fill="#EF9F27" font-size="9" font-weight="bold">OBSERVE</text>
+
+  <!-- Prometheus -->
+  <rect x="88" y="588" width="155" height="46" rx="6" fill="#1f1500" stroke="#EF9F27" stroke-width="1"/>
+  <text x="165" y="607" text-anchor="middle" fill="#FAC775" font-size="11" font-weight="bold">Prometheus</text>
+  <text x="165" y="623" text-anchor="middle" fill="#8a5c0a" font-size="10">Metrics scraping</text>
+
+  <line x1="243" y1="611" x2="278" y2="611" stroke="#EF9F27" stroke-width="1.5" marker-end="url(#arr-amber)"/>
+
+  <!-- Grafana -->
+  <rect x="278" y="588" width="140" height="46" rx="6" fill="#1f1500" stroke="#EF9F27" stroke-width="1"/>
+  <text x="348" y="607" text-anchor="middle" fill="#FAC775" font-size="11" font-weight="bold">Grafana</text>
+  <text x="348" y="623" text-anchor="middle" fill="#8a5c0a" font-size="10">Dashboards</text>
+
+  <line x1="418" y1="611" x2="453" y2="611" stroke="#EF9F27" stroke-width="1.5" marker-end="url(#arr-amber)"/>
+
+  <!-- ELK -->
+  <rect x="453" y="588" width="140" height="46" rx="6" fill="#1f1500" stroke="#EF9F27" stroke-width="1"/>
+  <text x="523" y="607" text-anchor="middle" fill="#FAC775" font-size="11" font-weight="bold">ELK Stack</text>
+  <text x="523" y="623" text-anchor="middle" fill="#8a5c0a" font-size="10">Log aggregation</text>
+
+  <line x1="593" y1="611" x2="628" y2="611" stroke="#EF9F27" stroke-width="1.5" marker-end="url(#arr-amber)"/>
+
+  <!-- Alerting -->
+  <rect x="628" y="588" width="162" height="46" rx="6" fill="#1f1500" stroke="#EF9F27" stroke-width="1"/>
+  <text x="709" y="607" text-anchor="middle" fill="#FAC775" font-size="11" font-weight="bold">Alerting</text>
+  <text x="709" y="623" text-anchor="middle" fill="#8a5c0a" font-size="10">PagerDuty / Slack</text>
+
+  <!-- down arrow monitor→infra -->
+  <line x1="250" y1="644" x2="250" y2="690" stroke="#639922" stroke-width="1.5" marker-end="url(#arr-green2)"/>
+
+  <!-- ══ ROW 6: INFRA ══ -->
+  <rect x="78" y="690" width="720" height="74" rx="8" fill="#081208" stroke="#639922" stroke-width="1" stroke-dasharray="5 3"/>
+  <text x="90" y="705" fill="#639922" font-size="9" font-weight="bold">INFRA AS CODE</text>
+
+  <!-- Terraform -->
+  <rect x="88" y="708" width="155" height="46" rx="6" fill="#0a1a08" stroke="#639922" stroke-width="1"/>
+  <text x="165" y="727" text-anchor="middle" fill="#97C459" font-size="11" font-weight="bold">Terraform</text>
+  <text x="165" y="743" text-anchor="middle" fill="#3B6D11" font-size="10">IaC provisioning</text>
+
+  <line x1="243" y1="731" x2="278" y2="731" stroke="#639922" stroke-width="1.5" marker-end="url(#arr-green2)"/>
+
+  <!-- Ansible -->
+  <rect x="278" y="708" width="140" height="46" rx="6" fill="#0a1a08" stroke="#639922" stroke-width="1"/>
+  <text x="348" y="727" text-anchor="middle" fill="#97C459" font-size="11" font-weight="bold">Ansible</text>
+  <text x="348" y="743" text-anchor="middle" fill="#3B6D11" font-size="10">Config mgmt</text>
+
+  <line x1="418" y1="731" x2="453" y2="731" stroke="#639922" stroke-width="1.5" marker-end="url(#arr-green2)"/>
+
+  <!-- Multi-cloud -->
+  <rect x="453" y="708" width="335" height="46" rx="6" fill="#0a1a08" stroke="#639922" stroke-width="1"/>
+  <text x="620" y="727" text-anchor="middle" fill="#97C459" font-size="11" font-weight="bold">Multi-cloud</text>
+  <text x="620" y="743" text-anchor="middle" fill="#3B6D11" font-size="10">AWS · Azure · OCI</text>
+
+  <!-- ══ FEEDBACK LOOPS ══ -->
+  <!-- MTTR loop: Alert → ArgoCD (right side curved) -->
+  <path d="M798 611 C855 611 855 491 798 491" fill="none" stroke="#EF9F27" stroke-width="1" stroke-dasharray="5 3" marker-end="url(#arr-amber)"/>
+  <text x="862" y="548" text-anchor="middle" fill="#8a5c0a" font-size="9">MTTR</text>
+  <text x="862" y="560" text-anchor="middle" fill="#8a5c0a" font-size="9">loop</text>
+
+  <!-- GitOps watch: ArgoCD → GitHub (left side curved) -->
+  <path d="M88 491 C30 491 30 135 88 135" fill="none" stroke="#D85A30" stroke-width="1" stroke-dasharray="5 3" marker-end="url(#arr-coral)"/>
+  <text x="20" y="308" text-anchor="middle" fill="#8a3d1a" font-size="9" transform="rotate(-90,20,308)">GitOps watch</text>
+
+  <!-- ══ LEGEND ══ -->
+  <rect x="78" y="778" width="720" height="28" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="92" y="787" width="10" height="10" rx="2" fill="#0d2137" stroke="#378ADD" stroke-width="1"/>
+  <text x="108" y="797" fill="#378ADD" font-size="10">Build</text>
+  <rect x="160" y="787" width="10" height="10" rx="2" fill="#1a1030" stroke="#7F77DD" stroke-width="1"/>
+  <text x="176" y="797" fill="#7F77DD" font-size="10">Security</text>
+  <rect x="240" y="787" width="10" height="10" rx="2" fill="#1f0d08" stroke="#D85A30" stroke-width="1"/>
+  <text x="256" y="797" fill="#D85A30" font-size="10">Deploy</text>
+  <rect x="310" y="787" width="10" height="10" rx="2" fill="#1f1500" stroke="#EF9F27" stroke-width="1"/>
+  <text x="326" y="797" fill="#EF9F27" font-size="10">Monitor</text>
+  <rect x="390" y="787" width="10" height="10" rx="2" fill="#0a1a08" stroke="#639922" stroke-width="1"/>
+  <text x="406" y="797" fill="#639922" font-size="10">Infra</text>
+  <line x1="450" y1="792" x2="478" y2="792" stroke="#6e7681" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="484" y="797" fill="#6e7681" font-size="10">Feedback loop</text>
+  <text x="680" y="797" fill="#21262d" font-size="10">trivediayush · DevOps Pipeline</text>
+
+  <!-- ══ ARROW MARKERS ══ -->
+  <defs>
+    <marker id="arr-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#00d9a3" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+    <marker id="arr-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#378ADD" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+    <marker id="arr-purple" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#7F77DD" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+    <marker id="arr-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+    <marker id="arr-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#EF9F27" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+    <marker id="arr-green2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#639922" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+  </defs>
+
 </svg>
