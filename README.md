@@ -46,55 +46,11 @@ $ cat profile.json
 ## 🔄 DEVOPS PIPELINE ARCHITECTURE
 
 > End-to-end automated pipeline — from a developer's commit to production, with security gates and full observability built in.
+## 🔄 DEVOPS PIPELINE ARCHITECTURE
 
-```mermaid
-flowchart TD
-    A[👨‍💻 Developer\nLocal Commit] -->|git push| B[🐙 GitHub Repo\nPR + Code Review]
-    B -->|webhook trigger| C[⚡ GitHub Actions\nCI Orchestrator]
-
-    subgraph BUILD ["🏗️  BUILD"]
-        C --> D[🧪 Unit Tests\npytest / Jest]
-        D --> E[🐳 Docker Build\nImage + layer cache]
-        E --> F[📦 Container Registry\nECR / ACR / GHCR]
-    end
-
-    subgraph SECURITY ["🛡️  SHIFT-LEFT SECURITY"]
-        F --> G[🔍 SonarQube\nSAST code scan]
-        G --> H[🐍 Snyk\nDependency CVEs]
-        H --> I[🔬 Trivy\nImage vuln scan]
-        I --> J[🔑 Gitleaks\nSecret detection]
-    end
-
-    subgraph DEPLOY ["🚀  DEPLOY"]
-        J --> K[♻️ ArgoCD\nGitOps sync]
-        K --> L[⛵ Helm\nK8s templating]
-        L --> M[☸️ EKS / AKS\nKubernetes cluster]
-        M --> N[🌍 Multi-env\nDev → Stage → Prod]
-    end
-
-    subgraph OBSERVE ["📊  OBSERVE"]
-        N --> O[📈 Prometheus\nMetrics scraping]
-        O --> P[📉 Grafana\nDashboards]
-        P --> Q[📋 ELK Stack\nLog aggregation]
-        Q --> R[🚨 Alerting\nPagerDuty / Slack]
-    end
-
-    subgraph INFRA ["🏗️  INFRA AS CODE"]
-        S[🌱 Terraform\nProvisioning] --> M
-        T[⚙️ Ansible\nConfig mgmt] --> M
-        U[☁️ Multi-cloud\nAWS · Azure · OCI] --> S
-    end
-
-    R -->|MTTR feedback loop| K
-    K -.->|GitOps watches| B
-
-    style BUILD fill:#0d2137,stroke:#378ADD,color:#85B7EB
-    style SECURITY fill:#1a1030,stroke:#7F77DD,color:#AFA9EC
-    style DEPLOY fill:#1f0d08,stroke:#D85A30,color:#F0997B
-    style OBSERVE fill:#1f1500,stroke:#EF9F27,color:#FAC775
-    style INFRA fill:#0a1a08,stroke:#639922,color:#97C459
-```
-
+<div align="center">
+  <img src="./devops-pipeline.svg" alt="DevOps Pipeline Architecture" width="100%"/>
+</div>
 ---
 
 ## 📈 PROFESSIONAL JOURNEY
