@@ -50,7 +50,7 @@ $ cat profile.json
 > End-to-end automated pipeline — from a developer's commit to production, with security gates and full observability built in.
 
 <div align="center">
-  <img src="./devops_pipeline_architecture.svg" alt="DevOps Pipeline Architecture" width="100%"/>
+  <img src="./devops_pipeline_architecture_flow.svg" alt="DevOps Pipeline Architecture" width="100%"/>
 </div>
 
 ---
