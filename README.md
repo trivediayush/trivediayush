@@ -49,7 +49,7 @@ $ cat profile.json
 ## 🔄 DEVOPS PIPELINE ARCHITECTURE
 
 <div align="center">
-  <img src="./devops-pipeline.svg" alt="DevOps Pipeline Architecture" width="100%"/>
+  <img src="./devops_pipeline_architecture" alt="DevOps Pipeline Architecture" width="100%"/>
 </div>
 ---
 
