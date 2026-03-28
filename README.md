@@ -1,19 +1,21 @@
 <div align="center">
 
 # 🛠️ AYUSH TRIVEDI | DEVOPS ENGINEER
+
 **Working with Resilient, Scalable, and Automated Cloud Ecosystems**
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushtrivedi-in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=github&logoColor=white)](https://trivediayush.github.io/Ayush-Trivedi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushtrivedi11jan@gmail.com)
 
----
+<br/>
 
-### 📜 CERTIFICATIONS
 ![OCI DevOps Professional](https://img.shields.io/badge/OCI%20Certified%20DevOps%20Professional-2025-00d9a3?style=flat-square)
 ![OCI Architect Associate](https://img.shields.io/badge/OCI%20Architect%20Associate-2025-00d9a3?style=flat-square)
 
----
+<br/>
 
 ```bash
 $ cat profile.json
@@ -46,11 +48,11 @@ $ cat profile.json
 ## 🔄 DEVOPS PIPELINE ARCHITECTURE
 
 > End-to-end automated pipeline — from a developer's commit to production, with security gates and full observability built in.
-## 🔄 DEVOPS PIPELINE ARCHITECTURE
 
 <div align="center">
-  <img src="./devops_pipeline_architecture" alt="DevOps Pipeline Architecture" width="100%"/>
+  <img src="./devops_pipeline_architecture.svg" alt="DevOps Pipeline Architecture" width="100%"/>
 </div>
+
 ---
 
 ## 📈 PROFESSIONAL JOURNEY
