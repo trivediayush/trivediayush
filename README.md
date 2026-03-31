@@ -107,6 +107,12 @@ Previous_Experience:
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trivediayush&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=trivediayush&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9a3&icon_color=00b4ff&text_color=c9d1d9" height="170" />
 
 </div>
