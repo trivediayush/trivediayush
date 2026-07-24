@@ -74,50 +74,51 @@ Results-driven DevOps Engineer with hands-on experience in designing and impleme
 
 ---
 
-### 💼 Experience
+### 📊 Expertise Distribution
 
-**DevOps Engineer** | Current
-- 🔐 Implemented secure secret management integrating Azure Key Vault with containerized services  
-- 📈 Restored and optimized centralized logging for 18+ services with Azure Log Analytics  
-- 📊 Built comprehensive monitoring dashboards using Azure Monitor  
-- 🛠️ Troubleshot and optimized CI/CD pipelines, container deployments, and infrastructure configurations
-
-**DevOps Engineer (Intern)**
-- ⚡ Designed and deployed automated CI/CD pipelines **reducing release cycles by 70%**  
-- 🎯 Managed server configurations and coordinated cross-functional deployments  
-- 🔑 Implemented access control mechanisms across production systems
+```
+Cloud Infrastructure    ████████████████░░ 90%
+Container Orchestration ██████████████████ 95%
+CI/CD Pipeline Design   ████████████████░░ 90%
+Infrastructure as Code  █████████████░░░░░ 85%
+Monitoring & Logging    ████████████████░░ 90%
+Security & DevSecOps    █████████████░░░░░ 85%
+Python Development      ██████████░░░░░░░░ 70%
+```
 
 ---
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
-#### 🎯 Highlight Projects
-
-</div>
-
 **[AWS EKS GitOps Microservices Platform](https://github.com/trivediayush/AWS-EKS-GitOps-Microservices-Platform)** ⭐
-> Production-grade microservices platform with GitOps workflows, automated container CI/CD, and end-to-end observability stack. Demonstrates enterprise-scale Kubernetes orchestration with ArgoCD for declarative deployments.
+Production-grade microservices with GitOps workflows and end-to-end observability.
 
 **[Azure DevOps CI/CD Pipeline](https://github.com/trivediayush/Azure-DevOps)** ⭐
-> End-to-end cloud-native CI/CD pipeline for distributed microservices on AKS. Showcases automated testing, containerization, and GitOps workflows for streamlined delivery.
+Cloud-native pipeline for distributed microservices on AKS with automated workflows.
 
 **[DevSecOps CI Pipeline](https://github.com/trivediayush/devsecops-ci-pipeline)** ⭐
-> Fully functional DevSecOps pipeline integrating SonarCloud, Gitleaks, and Snyk for comprehensive security scanning, secret detection, and vulnerability management.
+Integrated security scanning with SonarCloud, Gitleaks, and Snyk.
+
+**[AWS Cost Analytics & FinOps Dashboard](https://github.com/trivediayush/AWS-Cost-Analytics-and-FinOps-Dashboard)** 
+Real-time AWS cost tracking and optimization visualization.
+
+**[Terraform AWS Infrastructure](https://github.com/trivediayush/Terraform-AWS-Setup)**
+Reusable infrastructure-as-code modules for AWS automation.
+
+**[FastAPI Deployment Pipeline](https://github.com/trivediayush/fastapi-deploy-pipeline)**
+Production-ready FastAPI with automated AWS EC2 deployment.
 
 ---
 
-#### 📚 Additional Projects
+### 📈 Impact & Achievements
 
-| 🎯 Project | 📖 Description | 🔗 Link |
-|-----------|----------------|--------|
-| **AWS Cost Analytics & FinOps Dashboard** | Real-time AWS cost tracking and visualization for financial optimization and budgeting | [→ View](https://github.com/trivediayush/AWS-Cost-Analytics-and-FinOps-Dashboard) |
-| **Terraform AWS Infrastructure** | Reusable infrastructure-as-code modules for AWS automation with state management | [→ View](https://github.com/trivediayush/Terraform-AWS-Setup) |
-| **FastAPI Deployment Pipeline** | Production-ready FastAPI application with automated containerization and AWS EC2 deployment | [→ View](https://github.com/trivediayush/fastapi-deploy-pipeline) |
-| **Jenkins Shared Libraries** | Reusable Groovy utilities simplifying complex Jenkins pipeline workflows and configurations | [→ View](https://github.com/trivediayush/Jenkins-Shared-Libraries) |
-| **Cloud Native Pipeline** | Complete Jenkins-based CI/CD with SonarQube quality checks, Docker containerization, and Terraform IaC | [→ View](https://github.com/trivediayush/cloud-native-pipeline) |
-| **EC2 Static CI/CD Pipeline** | Fully automated pipeline for static web applications using only free AWS tools and infrastructure | [→ View](https://github.com/trivediayush/ec2-static-cicd-pipeline) |
+```
+Projects Completed      ████████████░░░░░░░░ 8+
+Production Deployments  ██████████░░░░░░░░░░ 15+
+CI/CD Optimization      ████████░░░░░░░░░░░░ 70% reduction
+Infrastructure Managed  ███████████░░░░░░░░░ 18+ services
+Open Source Repos       █████░░░░░░░░░░░░░░░ 35+
+```
 
 ---
 
@@ -125,14 +126,13 @@ Results-driven DevOps Engineer with hands-on experience in designing and impleme
 
 **B.Tech Computer Science** | Shri Vaishnav Vidyapeeth Vishwavidyalaya (2021 - 2025)
 
-**Professional Certifications**
 - 🥇 Oracle Certified DevOps Professional
-- 🥇 Oracle Certified Foundations Associate  
+- 🥇 Oracle Certified Foundations Associate
 - 🥇 NPTEL Cloud Computing
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-trivedi-in)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/ayusht45cyber)
@@ -143,6 +143,6 @@ Results-driven DevOps Engineer with hands-on experience in designing and impleme
 
 <div align="center">
 
-🔍 **Open to opportunities with forward-thinking organizations**
+🔍 Open to opportunities with forward-thinking organizations
 
 </div>
