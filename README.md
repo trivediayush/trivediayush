@@ -1,4 +1,4 @@
-## Ayush Trivedi
+## Hi, I am Ayush Trivedi
 
 **DevOps Engineer** | Cloud Infrastructure & Automation | India
 
