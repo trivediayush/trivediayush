@@ -74,32 +74,18 @@ Results-driven DevOps Engineer with hands-on experience in designing and impleme
 
 ---
 
-### 📊 Expertise Distribution
-
-```
-Cloud Infrastructure    ████████████████░░ 90%
-Container Orchestration ██████████████████ 95%
-CI/CD Pipeline Design   ████████████████░░ 90%
-Infrastructure as Code  █████████████░░░░░ 85%
-Monitoring & Logging    ████████████████░░ 90%
-Security & DevSecOps    █████████████░░░░░ 85%
-Python Development      ██████████░░░░░░░░ 70%
-```
-
----
-
 ### 🚀 Featured Projects
 
-**[AWS EKS GitOps Microservices Platform](https://github.com/trivediayush/AWS-EKS-GitOps-Microservices-Platform)** ⭐
+**[AWS EKS GitOps Microservices Platform](https://github.com/trivediayush/AWS-EKS-GitOps-Microservices-Platform)**
 Production-grade microservices with GitOps workflows and end-to-end observability.
 
-**[Azure DevOps CI/CD Pipeline](https://github.com/trivediayush/Azure-DevOps)** ⭐
+**[Azure DevOps CI/CD Pipeline](https://github.com/trivediayush/Azure-DevOps)**
 Cloud-native pipeline for distributed microservices on AKS with automated workflows.
 
-**[DevSecOps CI Pipeline](https://github.com/trivediayush/devsecops-ci-pipeline)** ⭐
+**[DevSecOps CI Pipeline](https://github.com/trivediayush/devsecops-ci-pipeline)**
 Integrated security scanning with SonarCloud, Gitleaks, and Snyk.
 
-**[AWS Cost Analytics & FinOps Dashboard](https://github.com/trivediayush/AWS-Cost-Analytics-and-FinOps-Dashboard)** 
+**[AWS Cost Analytics & FinOps Dashboard](https://github.com/trivediayush/AWS-Cost-Analytics-and-FinOps-Dashboard)**
 Real-time AWS cost tracking and optimization visualization.
 
 **[Terraform AWS Infrastructure](https://github.com/trivediayush/Terraform-AWS-Setup)**
@@ -110,15 +96,11 @@ Production-ready FastAPI with automated AWS EC2 deployment.
 
 ---
 
-### 📈 Impact & Achievements
+### 📊 GitHub Statistics
 
-```
-Projects Completed      ████████████░░░░░░░░ 8+
-Production Deployments  ██████████░░░░░░░░░░ 15+
-CI/CD Optimization      ████████░░░░░░░░░░░░ 70% reduction
-Infrastructure Managed  ███████████░░░░░░░░░ 18+ services
-Open Source Repos       █████░░░░░░░░░░░░░░░ 35+
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trivediayush&show_icons=true&theme=nord&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trivediayush&layout=compact&theme=nord&hide_border=true)
 
 ---
 
