@@ -72,22 +72,18 @@ Results-driven DevOps Engineer with hands-on experience in designing and impleme
 
 ---
 
-### Key Projects
+### Featured Projects
 
-**Cloud-Native CI/CD Pipeline (Azure DevOps & ArgoCD)**
-- End-to-end microservices deployment automation on AKS
-- Integrated automated testing and GitOps workflows
-- Improved deployment efficiency and system reliability
-
-**DevSecOps CI Pipeline**
-- Integrated SonarCloud, Gitleaks, and Snyk for comprehensive security scanning
-- Automated unit testing and continuous validation
-- Reduced security vulnerabilities by early detection
-
-**AWS EKS GitOps Microservices Platform**
-- Production-grade microservices architecture on AWS
-- Implemented container image pipeline and observability stack
-- Enabled scalable and reliable application delivery
+| Project | Tech Stack | Description | Repository |
+|---------|-----------|-------------|-----------|
+| **AWS EKS GitOps Microservices Platform** | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EB6E2F?style=flat&logo=argo&logoColor=white) | Production-grade microservices platform with GitOps workflows, container CI/CD, and observability stack | [View Repo](https://github.com/trivediayush/AWS-EKS-GitOps-Microservices-Platform) |
+| **Azure DevOps CI/CD Pipeline** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | End-to-end cloud-native CI/CD pipeline for distributed voting microservices with AKS deployment | [View Repo](https://github.com/trivediayush/Azure-DevOps) |
+| **DevSecOps CI Pipeline** | ![GitHub](https://img.shields.io/badge/-GitHub%20Actions-2088F0?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![SonarCloud](https://img.shields.io/badge/-SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white) ![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?style=flat&logo=snyk&logoColor=white) | Integrated security scanning with code quality, vulnerability detection, and secret management | [View Repo](https://github.com/trivediayush/devsecops-ci-pipeline) |
+| **AWS Cost Analytics & FinOps Dashboard** | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F2CC0C?style=flat&logo=grafana&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | Real-time AWS cost tracking and visualization for FinOps optimization | [View Repo](https://github.com/trivediayush/AWS-Cost-Analytics-and-FinOps-Dashboard) |
+| **Terraform AWS Infrastructure** | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazons3&logoColor=white) | Reusable Terraform modules for AWS infrastructure automation with state management | [View Repo](https://github.com/trivediayush/Terraform-AWS-Setup) |
+| **FastAPI Deployment Pipeline** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | Production-ready FastAPI application with containerization and automated AWS EC2 deployment | [View Repo](https://github.com/trivediayush/fastapi-deploy-pipeline) |
+| **Jenkins Shared Libraries** | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat&logo=groovy&logoColor=white) | Reusable Groovy code for simplifying Jenkins pipeline workflows | [View Repo](https://github.com/trivediayush/Jenkins-Shared-Libraries) |
+| **Cloud Native Pipeline** | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) | Complete CI/CD pipeline for web applications with SonarQube code quality checks | [View Repo](https://github.com/trivediayush/cloud-native-pipeline) |
 
 ---
 
@@ -105,7 +101,10 @@ Shri Vaishnav Vidyapeeth Vishwavidyalaya (2021 - 2025)
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/ayush-trivedi-in) • [Docker Hub](https://hub.docker.com/u/ayusht45cyber) • [GitLab](https://gitlab.com/ayushtrivedi890)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-trivedi-in)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/ayusht45cyber)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ayushtrivedi890)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/trivediayush)
 
 ---
 
