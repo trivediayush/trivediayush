@@ -74,6 +74,18 @@ Results-driven DevOps Engineer with hands-on experience in designing and impleme
 
 ---
 
+## 📊 Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trivediayush&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trivediayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivediayush&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 **[AWS EKS GitOps Microservices Platform](https://github.com/trivediayush/AWS-EKS-GitOps-Microservices-Platform)**
@@ -96,11 +108,15 @@ Production-ready FastAPI with automated AWS EC2 deployment.
 
 ---
 
-### 📊 GitHub Statistics
+## 📈 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trivediayush&show_icons=true&theme=nord&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trivediayush&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trivediayush&layout=compact&theme=nord&hide_border=true)
+<div align="center">
+  <p>Thanks for visiting my profile! Feel free to check out my repositories and connect with me.</p>
+</div>
 
 ---
 
