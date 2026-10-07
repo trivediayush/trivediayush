@@ -155,7 +155,7 @@ Experienced with AWS and Azure environments, containerized workloads, Kubernetes
 
 **AWS · EKS · Kubernetes · Docker · Helm · GitOps · CI/CD · Observability**
 
-<a href="https://github.com/trivediayush/AWS-EKS-GitOps-Microservices-Platform">
+<a href="https://github.com/trivediayush/cloud-native-platform-gitops">
 <img src="https://img.shields.io/badge/View_Repository-539BF5?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -177,11 +177,11 @@ Experienced with AWS and Azure environments, containerized workloads, Kubernetes
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Azure DevOps CI/CD Pipeline
+### ☁️ Golden-AMI AWS
 
-**Azure · AKS · Azure DevOps · Docker · Kubernetes · CI/CD**
+**AWS · AMI · Golden-AMI · CIS Level 1 · Trivy · Builder Pipeline**
 
-<a href="https://github.com/trivediayush/Azure-DevOps">
+<a href="https://github.com/trivediayush/golden-ami">
 <img src="https://img.shields.io/badge/View_Repository-539BF5?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
